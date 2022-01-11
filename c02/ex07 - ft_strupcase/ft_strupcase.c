@@ -14,7 +14,7 @@ char	*ft_strupcase(char *str)
 /*
 #include <stdio.h>
 
-int		main(void)
+int main(void)
 {
 	char str[] = "MesCouidlls au b0rd de l0$%^";
 
