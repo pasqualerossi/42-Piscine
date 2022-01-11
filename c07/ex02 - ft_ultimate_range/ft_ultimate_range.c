@@ -37,16 +37,14 @@ int main(void)
 	int	*tab;
 	int	size;
 	int	i = 0;
-
+	
 	min = 5;
 	max = 10;
-	
 	size = ft_ultimate_range(&tab, min, max);
 	while(i < size)
 	{
 		printf("%d, ", tab[i]);
 		i++;
 	}
-
 }
 */
