@@ -37,7 +37,6 @@ int main(void)
 
 	min = 5;
 	max = 10;
-	
 	size = max - min;
 	tab = ft_range(min, max);
 	while(i < size)
