@@ -7,3 +7,11 @@ void	ft_putstr(char *str)
 		len++;
 	write(1, str, len);
 }
+/*
+void	ft_putstr(char *str);
+
+int		main()
+{
+	ft_putstr("Hey");
+}
+*/
