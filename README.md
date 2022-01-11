@@ -1,4 +1,3 @@
-<img width="1366" alt="Screen Shot 2021-10-21 at 4 25 23 PM" src="https://user-images.githubusercontent.com/58959408/138219913-06b5a0f5-326c-4399-9abc-2b30d54a45c3.png">
 <img width="1366" alt="Screen Shot 2021-10-21 at 4 25 41 PM" src="https://user-images.githubusercontent.com/58959408/138219965-6b242367-9a4f-4f7e-a041-01a15d593ca7.png">
 <img width="1366" alt="Screen Shot 2021-10-21 at 4 25 59 PM" src="https://user-images.githubusercontent.com/58959408/138220015-c6fefcf6-ca4b-4b0a-9090-08086da6ea18.png">
 <img width="1366" alt="Screen Shot 2021-10-21 at 4 26 23 PM" src="https://user-images.githubusercontent.com/58959408/138220061-bea86980-2b30-4268-8f05-0f35c358f6c1.png">
