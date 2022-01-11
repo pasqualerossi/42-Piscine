@@ -1,4 +1,5 @@
 # 42-Piscine-Exam
-Link to Exam Questions and Solutions
+Links to Exam Questions and Solutions
 
-http://nigal.freeshell.org/42/exam-solutions/ 
+http://nigal.freeshell.org/42/exam-solutions/ </br>
+https://github.com/gcamerli/examshell
