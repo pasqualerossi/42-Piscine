@@ -27,7 +27,7 @@ Schedule
 Week 1:</br>
 Shell00, Shell01, C00. </br>
 
-- Learn the shell projects on Monday and Tuesday, but by Wednesday, start on the C projects (C00) as the exam itself is on the C Language.</br>
+- Learn the shell projects on Monday and Tuesday. On Wednesday, start on the C projects (C00) as the exam itself is on the C Language.</br>
 - Suggest you work on the 1st Rush (Rush00) to get an idea of what a group coding project is like. 
 
 </br>
