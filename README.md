@@ -67,3 +67,6 @@ During the Exam </br>
 1 - Don't forget to clean up, comment, remove your testing code execs, and libraries prior to submission. </br>
 2 - Don't forget to push your code regularly in the rendu/ directory to vogsphere before typing grademe and y in the examshell terminal. </br>
 3 - Read through all of the subjects and examples again before final submission.
+
+</br>
+Enjoy coding and GOOD LUCK in the piscine.
