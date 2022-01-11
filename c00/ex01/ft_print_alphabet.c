@@ -11,3 +11,10 @@ void	ft_print_alphabet(void)
 		count++;
 	}
 }
+/*
+int	main(void)
+{
+	ft_print_alphabet();
+	return (0);
+}
+*/
