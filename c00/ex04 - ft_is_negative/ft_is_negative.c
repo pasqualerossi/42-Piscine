@@ -8,7 +8,7 @@ void	ft_is_negative(int n)
 		write(1, "P", 1);
 }
 /*
-int	main(void)
+int main(void)
 {
 	ft_is_negative(5);
 	ft_is_negative(-5);
