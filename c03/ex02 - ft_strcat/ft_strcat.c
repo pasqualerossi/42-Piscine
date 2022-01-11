@@ -15,3 +15,13 @@ char	*ft_strcat(char *dest, char *src)
 	dest[i + j] = '\0';
 	return (dest);
 }
+/*
+#include <stdio.h>
+
+int main()
+{
+	char src[] = "Network";
+	char dest[] = "42 ";
+	printf("%s", ft_strncat(dest, src, 7));
+}
+*/
