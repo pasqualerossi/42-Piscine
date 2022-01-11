@@ -11,3 +11,16 @@ char	*ft_strcpy(char *dest, char *src)
 	dest[i] = '\0';
 	return (dest);
 }
+/*
+#include <stdio.h>
+#include <string.h>
+
+int		main()
+{
+	char dest[] = "";
+
+	printf("%lu\n", strlen(dest));	
+	ft_strcpy(dest, "Super mega test!");
+	printf("%s", dest);	
+}
+*/
