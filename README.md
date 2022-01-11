@@ -65,7 +65,7 @@ You should learn the following C Concepts:
 
 What the piscine teaches you is the following:
 
-- Vim or Visual Studio Code (Depending on which one you use)
+- Vim or Visual Studio Code (depending on which one you use)
 - iTerm/Terminal
 - C Language Programming
 - Shell Commands
