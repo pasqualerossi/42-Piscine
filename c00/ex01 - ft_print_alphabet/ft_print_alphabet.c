@@ -18,3 +18,8 @@ int	main(void)
 	return (0);
 }
 */
+
+void	ft_print_alphabet(void)
+{
+	write(1, "abcdefghijklmnopqrstuvwxyz", 26);
+}
