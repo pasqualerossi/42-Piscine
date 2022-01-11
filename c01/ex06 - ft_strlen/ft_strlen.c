@@ -7,3 +7,13 @@ int	ft_strlen(char *str)
 		len++;
 	return (len);
 }
+/*
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+	printf("%lu\n", strlen(""));
+	printf("%d\n", ft_strlen(""));
+}
+*/
