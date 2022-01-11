@@ -25,3 +25,9 @@ void	ft_putnbr(int nb)
 	}
 	ft_putchar(i % 10 + 48);
 }
+/*
+int main (void)
+{
+	ft_putnbr(4563);
+}
+*/
