@@ -1,37 +1,38 @@
 # 42-Adelaide
-June - July Piscine 2021. </br>
+I was part of the 1st ever piscine at 42 Adelaide between June - July of 2021. </br>
 
 # Piscine Tips
 Week 1:
 
 Shell00, Shell01, C00. </br>
 
--Learn the shell projects on Monday and Tuesday, but by Wednesday, start on the C projects (C00) as the exam itself is on the C Language.</br>
--Suggest you work on the 1st Rush to get an idea of what a group coding project is like. 
+- Learn the shell projects on Monday and Tuesday, but by Wednesday, start on the C projects (C00) as the exam itself is on the C Language.</br>
+- Suggest you work on the 1st Rush to get an idea of what a group coding project is like. 
 
 </br>
 Week 2:
 
 C01 and C02. </br>
 
--Contine with Projects C00 and C01 this week. </br>
--Focus on the C Projects this weekend rather then the Rush project, if you missed the first Rush (Rush00), then maybe take part in this Rush project (Rush01). </br> 
--For those that ain't doing the Rush, prepare for exam on weekends and know your mistakes that you made on the previous exams and continue with your C Projects. 
+- Contine with Projects C00 and C01 this week. </br>
+- Focus on the C Projects this weekend rather then the Rush project, if you missed the first Rush (Rush00), then maybe take part in this Rush project (Rush01). </br> 
+- For those that ain't doing the Rush, prepare for exam on weekends and know your mistakes that you made on the previous exams and continue with your C Projects. 
 
 </br>
 Week 3: 
 
 C03 and C04. </br>
 
--If you missed the first and second Rush projects (Rush00 & Rush01), then don't really worry about this Rush project. </br>
--This week continue with your C Projects and Exam Preparation. Improving your C concepts & coding skills and your algorithms.
+- If you missed the first and second Rush projects (Rush00 & Rush01), then don't really worry about this Rush project. </br>
+- This week continue with your C Projects and Exam Preparation. Improving your C concepts & coding skills and your algorithms.
 
 </br>
 Week 4: 
 
 C05, C06 and possibly C07 if you want to.
 
--This week continue with your C Projects and suggest that from Wednesday onwards to prepare for your final exam.
+- This week continue with your C Projects and suggest that from Wednesday onwards to prepare for your final exam.
+</br>
 
 # 42-Piscine-Exam
 Links to Exam Questions and Solutions
@@ -39,7 +40,7 @@ Links to Exam Questions and Solutions
 http://nigal.freeshell.org/42/exam-solutions/ </br>
 https://github.com/gcamerli/examshell </br>
 https://github.com/barimehdi77/42-piscine-exam
-
+</br>
 # Before Exams
 
 You should learn the following C Concepts:
@@ -51,6 +52,7 @@ You should learn the following C Concepts:
 - Strings
 - Argc & Argv 
 - Malloc and Free
+</br>
 
 # 42-Exam-Info
 
