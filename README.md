@@ -2,8 +2,7 @@
 I was part of the 1st ever piscine at 42 Adelaide between June - July of 2021. </br>
 
 # Piscine Tips
-Week 1:
-
+Week 1:</br>
 Shell00, Shell01, C00. </br>
 
 - Learn the shell projects on Monday and Tuesday, but by Wednesday, start on the C projects (C00) as the exam itself is on the C Language.</br>
