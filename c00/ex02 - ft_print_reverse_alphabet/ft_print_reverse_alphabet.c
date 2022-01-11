@@ -9,7 +9,7 @@ void	ft_print_reverse_alphabet(void)
 		write(1, &count, 1);
 }
 /*
-int	main(void)
+int main(void)
 {
 	ft_print_reverse_alphabet();
 	return (0);
