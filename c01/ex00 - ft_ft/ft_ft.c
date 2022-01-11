@@ -2,11 +2,8 @@ void	ft_ft(int *nbr)
 {
 	*nbr = 42;
 }
-
-#include <stdio.h>
-
-void ft_ft(int *nbr);
 /*
+#include <stdio.h>
 int		main(void)
 {
 	int a;
