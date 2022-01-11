@@ -15,3 +15,15 @@ Logging Into and Setting up the Exam </br>
 Step 1 - Login with exam / exam at the Login Screen. </br>
 Step 2 - Open a Terminal and type in your username and password after the prompt. </br>
 Step 3 - Type examshell in a terminal to begin.
+
+# Before Exams
+
+You should learn the following C Concepts:
+- Functions 
+- Loops 
+- Condition 
+- Arrays 
+- Pointers
+- Strings
+- Argc & Argv 
+- Malloc and Free
