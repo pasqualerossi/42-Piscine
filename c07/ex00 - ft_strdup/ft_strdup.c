@@ -25,3 +25,20 @@ char	*ft_strdup(char *src)
 	dest[i] = '\0';
 	return (dest);
 }
+/*
+#include <string.h>
+#include <stdio.h>
+
+int main(void)
+{
+	char	*str;
+	char	*allocated;
+
+	str = "Hello World with malloc()";
+	printf("original  : base  : $%s$ @ %p\n", str, str);
+	allocated = strdup(str);
+	printf("copied    : alloc : $%s$ @ %p\n", allocated, allocated);
+	allocated = ft_strdup(str);
+	printf("ft_copied : alloc : $%s$ @ %p\n", allocated, allocated);
+}
+*/
