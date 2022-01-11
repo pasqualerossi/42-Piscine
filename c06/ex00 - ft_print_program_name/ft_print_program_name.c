@@ -14,5 +14,5 @@ int	main(int argc, char **argv)
 	(void)argc;
 	return (0);
 }
-/* this is a program and doesn't require a int main,
-only a function requires a int main. */
+/* this is a program and doesn't require an int main,
+only a function requires an int main. */
