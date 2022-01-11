@@ -23,7 +23,7 @@ Week 3:
 
 C03 and C04. </br>
 
-- If you missed the first and second Rush projects (Rush00 & Rush01), then don't really worry about this Rush project. </br>
+- If you missed the first and second Rush projects (Rush00 & Rush01), then don't really worry about this Rush project (Rush02). </br>
 - This week continue with your C Projects and Exam Preparation. Improving your C concepts & coding skills and your algorithms.
 
 </br>
