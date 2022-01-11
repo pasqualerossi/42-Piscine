@@ -1,39 +1,31 @@
 #include <unistd.h>
 
-void	ft_print(char first, char second, char third)
-{
-	write(1, &first, 1);
-	write(1, &second, 1);
-	write(1, &third, 1);
-	if (first != '7')
-	{
-		write(1, ", ", 2);
-	}
-}
-
 void	ft_print_comb(void)
 {
-	char	first;
-	char	second;
-	char	third;
+	int	a;
+	int	b;
+	int	c;
 
-	first = '0';
-	second = '1';
-	third = '2';
-	while (first <= '7')
+	a = '0';
+	while (a <= '7')
 	{
-		second = first + 1;
-		while (second <= '8')
+		b = a;
+		while (++b <= '8')
 		{
-			third = second + 1;
-			while (third <= '9')
+			c = b + 1;
+			while (c <= '9')
 			{
-				ft_print(first, second, third);
-				third++;
+				write (1, &a, 1);
+				write (1, &b, 1);
+				write (1, &c, 1);
+				if (a != '7' || b != '8' || c != '9')
+				{
+					write (1, ", ", 2);
+				}
+				c++;
 			}
-			second++;
 		}
-		first++;
+		a++;
 	}
 }
 
