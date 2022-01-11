@@ -9,7 +9,7 @@ void	ft_swap(int *a, int *b)
 /*
 #include <stdio.h>
 
-int		main(void)
+int main(void)
 {
 	int		a;
 	int		b;
