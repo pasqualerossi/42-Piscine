@@ -40,6 +40,7 @@ int main(void)
 
 	min = 5;
 	max = 10;
+	
 	size = ft_ultimate_range(&tab, min, max);
 	while(i < size)
 	{
