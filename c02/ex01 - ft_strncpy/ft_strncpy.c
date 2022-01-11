@@ -15,3 +15,16 @@ char	*ft_strncpy(char *dest, char *src, unsigned int n)
 	}
 	return (dest);
 }
+/*
+#include <stdio.h>
+#include <string.h>
+
+int		main(void)
+{
+	char src[] = "Bonjour";
+	char dest[15];
+
+	printf("%s\n", ft_strncpy(dest, src, 15 ));
+	printf("%s\n", strncpy(dest, src, 15 ));
+}
+*/
