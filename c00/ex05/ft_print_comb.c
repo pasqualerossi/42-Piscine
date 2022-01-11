@@ -1,4 +1,5 @@
 #include <unistd.h>
+
 void	ft_print(char first, char second, char third)
 {
 	write(1, &first, 1);
@@ -35,3 +36,11 @@ void	ft_print_comb(void)
 		first++;
 	}
 }
+
+/*
+int	main(void)
+{
+	ft_print_comb();
+	return (0);
+}
+*/
