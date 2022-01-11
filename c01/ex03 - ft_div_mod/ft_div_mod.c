@@ -6,7 +6,7 @@ void	ft_div_mod(int a, int b, int *div, int *mod)
 /*
 #include <stdio.h>
 
-int		main(void)
+int main(void)
 {
 	int a;
 	int b;
