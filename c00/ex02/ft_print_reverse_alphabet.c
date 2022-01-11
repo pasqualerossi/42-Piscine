@@ -8,3 +8,10 @@ void	ft_print_reverse_alphabet(void)
 	while (count-- >= 98)
 		write(1, &count, 1);
 }
+/*
+int	main(void)
+{
+	ft_print_reverse_alphabet();
+	return (0);
+}
+*/
