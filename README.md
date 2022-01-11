@@ -63,6 +63,18 @@ You should learn the following C Concepts:
 - Argc & Argv 
 - Malloc and Free
 
+What the piscine teaches you is the following:
+
+- Vim or Visual Studio Code (Depending on which one you use)
+- iTerm/Terminal
+- C Language Programming
+- Shell Commands
+- Git
+- GitHub
+- Use an iMac well =)
+- Discord
+and much more. 
+
 # 42-Exam-Info
 
 Logging Into and Setting up the Exam </br>
