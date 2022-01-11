@@ -10,12 +10,12 @@ Shell00, Shell01, C00. </br>
 -Suggest you work on the 1st Rush to get an idea of what a group coding project is like. 
 
 </br>
-Week 2: 
+Week 2:
 
 C01 and C02. </br>
 
 -Contine with Projects C00 and C01 this week. </br>
--Focus on the C Projects this weekend rather then the Rush project, if you missed the first Rush (Rush00), then maybe take part in this Rush project. </br> 
+-Focus on the C Projects this weekend rather then the Rush project, if you missed the first Rush (Rush00), then maybe take part in this Rush project (Rush01). </br> 
 -For those that ain't doing the Rush, prepare for exam on weekends and know your mistakes that you made on the previous exams and continue with your C Projects. 
 
 </br>
