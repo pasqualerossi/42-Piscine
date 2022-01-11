@@ -2,6 +2,16 @@
 I was part of the 1st ever piscine at 42 Adelaide between June - July of 2021. </br>
 
 # Piscine Tips
+
+Feel stuck on a question?
+Do either or all of the following:
+
+- Ask anyone and everyone and show them what's happening.
+- Check the Discord by either typing your problem in the right channel or searching the whole server in the top right corner of the Discord application. 
+- Google Search the specific problem.
+
+Schedule
+
 Week 1:</br>
 Shell00, Shell01, C00. </br>
 
