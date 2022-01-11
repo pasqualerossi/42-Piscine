@@ -44,6 +44,5 @@ int main(void)
 		printf("%d, ", tab[i]);
 		i++;
 	}
-
 }
 */
