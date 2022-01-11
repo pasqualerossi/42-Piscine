@@ -8,6 +8,18 @@ http://nigal.freeshell.org/42/exam-solutions/ </br>
 https://github.com/gcamerli/examshell </br>
 https://github.com/barimehdi77/42-piscine-exam
 
+# Before Exams
+
+You should learn the following C Concepts:
+- Functions 
+- Loops 
+- Condition 
+- Arrays 
+- Pointers
+- Strings
+- Argc & Argv 
+- Malloc and Free
+
 # 42-Exam-Info
 
 Logging Into and Setting up the Exam </br>
@@ -21,15 +33,3 @@ During the Exam </br>
 1 - Don't forget to clean up, comment, remove your testing code execs, and libraries prior to submission. </br>
 2 - Don't forget to push your code regularly in the rendu/ directory to vogsphere before typing grademe and y in the examshell terminal. </br>
 3 - Read through all of the subjects and examples again before final submission.
-
-# Before Exams
-
-You should learn the following C Concepts:
-- Functions 
-- Loops 
-- Condition 
-- Arrays 
-- Pointers
-- Strings
-- Argc & Argv 
-- Malloc and Free
