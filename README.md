@@ -29,7 +29,7 @@ C03 and C04. </br>
 </br>
 Week 4: 
 
-C05, C06 and possibly C07 if you want to.
+C05 and C06 (with possibly C07 if you want to)
 
 - This week continue with your C Projects and suggest that from Wednesday onwards to prepare for your final exam.
 
