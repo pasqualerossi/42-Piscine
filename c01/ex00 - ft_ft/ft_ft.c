@@ -4,7 +4,8 @@ void	ft_ft(int *nbr)
 }
 /*
 #include <stdio.h>
-int		main(void)
+
+int main(void)
 {
 	int a;
 	int *ptr;
