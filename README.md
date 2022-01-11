@@ -1,6 +1,18 @@
 # 42-Adelaide
 I was part of the 1st ever piscine at 42 Adelaide between June - July of 2021. </br>
 
+What the piscine teaches you is the following:
+
+- Vim or Visual Studio Code (depending on which one you use)
+- iTerm/Terminal
+- C Language Programming
+- Shell Commands
+- Git
+- GitHub
+- Use an iMac well =)
+- Discord
+and much more. 
+
 # Piscine Tips
 
 Feel stuck on a question?
@@ -63,18 +75,6 @@ You should learn the following C Concepts:
 - Argc & Argv 
 - Malloc and Free
 
-What the piscine teaches you is the following:
-
-- Vim or Visual Studio Code (depending on which one you use)
-- iTerm/Terminal
-- C Language Programming
-- Shell Commands
-- Git
-- GitHub
-- Use an iMac well =)
-- Discord
-and much more. 
-
 # 42-Exam-Info
 
 Logging Into and Setting up the Exam </br>
@@ -88,6 +88,7 @@ During the Exam </br>
 1 - Don't forget to clean up, comment, remove your testing code execs, and libraries prior to submission. </br>
 2 - Don't forget to push your code regularly in the rendu/ directory to vogsphere before typing grademe and y in the examshell terminal. </br>
 3 - Read through all of the subjects and examples again before final submission.
+
 
 </br>
 Enjoy coding and GOOD LUCK in the piscine.
