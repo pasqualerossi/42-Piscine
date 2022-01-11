@@ -46,7 +46,7 @@ https://github.com/barimehdi77/42-piscine-exam
 You should learn the following C Concepts:
 - Functions 
 - Loops 
-- Condition 
+- Conditions 
 - Arrays 
 - Pointers
 - Strings
