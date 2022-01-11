@@ -32,7 +32,6 @@ Week 4:
 C05, C06 and possibly C07 if you want to.
 
 - This week continue with your C Projects and suggest that from Wednesday onwards to prepare for your final exam.
-</br>
 
 # 42-Piscine-Exam
 Links to Exam Questions and Solutions
@@ -40,8 +39,6 @@ Links to Exam Questions and Solutions
 http://nigal.freeshell.org/42/exam-solutions/ </br>
 https://github.com/gcamerli/examshell </br>
 https://github.com/barimehdi77/42-piscine-exam
-
-</br>
 
 # Before Exams
 
@@ -54,7 +51,6 @@ You should learn the following C Concepts:
 - Strings
 - Argc & Argv 
 - Malloc and Free
-</br>
 
 # 42-Exam-Info
 
