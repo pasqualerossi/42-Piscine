@@ -18,7 +18,6 @@ int main()
 	int ********nbr1;
 	int *********nbr;
 
-
 	n = 21;
 	
 	nbr8 = &n;
@@ -31,7 +30,6 @@ int main()
 	nbr1 = &nbr2;
 	nbr = &nbr1;
 	
-
 	ft_ultimate_ft(nbr);
 	printf("%d", n);	
 	return 0;
