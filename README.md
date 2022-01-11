@@ -11,7 +11,7 @@ Shell00, Shell01, C00. </br>
 </br>
 Week 2:
 
-C01 and C02. </br>
+C00, C01 and C02. </br>
 
 - Contine with Projects C00 and C01 this week. </br>
 - Focus on the C Projects this weekend rather then the Rush project, if you missed the first Rush (Rush00), then maybe take part in this Rush project (Rush01). </br> 
@@ -20,7 +20,7 @@ C01 and C02. </br>
 </br>
 Week 3: 
 
-C03 and C04. </br>
+C02, C03 and C04. </br>
 
 - If you missed the first and second Rush projects (Rush00 & Rush01), then don't really worry about this Rush project (Rush02). </br>
 - This week continue with your C Projects and prepare for the Exam Preparation. Improving your C concepts & coding skills, along with your algorithms.
@@ -28,7 +28,7 @@ C03 and C04. </br>
 </br>
 Week 4: 
 
-C05 and C06 (with possibly C07 if you want to)
+C04, C05 and C06 (with possibly C07 if you want to)
 
 - This week continue with your C Projects and suggest that from Wednesday onwards to prepare for your final exam.
 </br>
