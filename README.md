@@ -21,9 +21,18 @@ Do either or all of the following:
 - Ask anyone and everyone and show them what's happening.
 - Check the Discord by either typing your problem in the right channel or searching the whole server in the top right corner of the Discord application. 
 - Google Search the specific problem.
+</br>
 
+Evaluations </br>
+Recommend you open eval slots as much as you can, that way you get a couple of things out of it.
+
+- You meet them 1 on 1 and get to know them more and their skillset.
+- You get 1 eval point for every eval done.
+- They explain their code to you, which helps you further understand the project. 
+- You have a copy of their repo, which could you figure out their logic.
+</br>
 Schedule
-
+</br>
 Week 1:</br>
 Shell00, Shell01, C00. </br>
 
