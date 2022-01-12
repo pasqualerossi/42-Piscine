@@ -53,6 +53,7 @@ Week 4:
 C04, C05 and C06 (with possibly C07 if you want to)
 
 - This week continue with your C Projects and suggest that from Wednesday onwards to prepare for your final exam.
+- Continue and push your C Projects on the final weekend of the piscine as Sunday at 5pm, the 42 Intra closes and piscine is over.  
 </br>
 NOTE: Don't stress with the exams, I failed the first 3 exams (Exam 00, Exam 01 and Exam 02) and only passed the last exam (Exam 03). 
 
