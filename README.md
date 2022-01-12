@@ -57,6 +57,14 @@ C04, C05 and C06 (with possibly C07 if you want to)
 </br>
 NOTE: Don't stress with the exams, I failed the first 3 exams (Exam 00, Exam 01 and Exam 02) and only passed the last exam (Exam 03). 
 
+# C Projects Checklist
+A checklist you can use before you submit your C Projects. 
+
+- Make sure all of the right files are there and are named correctly, check the c.pdf if needed.
+- Run Norminette in the folder of your C Projects in iTerm.
+- gcc to compile your .c project
+- Git clone your repo before clicking on 'set project as finished' to check that everything is there. 
+
 # 42-Piscine-Exam
 Links to Exam Questions and Solutions
 
