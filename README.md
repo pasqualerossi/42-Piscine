@@ -64,9 +64,9 @@ http://nigal.freeshell.org/42/exam-solutions/ </br>
 https://github.com/gcamerli/examshell </br>
 https://github.com/barimehdi77/42-piscine-exam
 
-# Before Exams
+# Before Exams and C Concepts
 
-You should learn the following C Concepts:
+You should learn the following fundamental C Concepts:
 - Functions 
 - Loops 
 - Conditions 
@@ -75,6 +75,11 @@ You should learn the following C Concepts:
 - Strings
 - Argc & Argv 
 - Malloc and Free
+
+The Additional Concepts includes:
+
+- Headers (C08)
+- Makefile (C09)
 
 # 42-Exam-Info
 
