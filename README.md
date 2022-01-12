@@ -62,6 +62,7 @@ A checklist you can use before you submit your C Projects.
 
 - Make sure all of the right files are there and are named correctly, check the c.pdf if needed.
 - Run Norminette in the folder of your C Projects in iTerm.
+- Make sure all .c projects have headers in them, to place a header type in vim - :Stdheader
 - gcc to compile your .c project
 - Make sure only the .c files are in there and not any a.out or other files are there. 
 - Git clone your repo before clicking on 'set project as finished' to check that everything is there. 
