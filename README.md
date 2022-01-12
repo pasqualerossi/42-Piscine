@@ -114,6 +114,13 @@ During the Exam </br>
 2 - Don't forget to push your code regularly in the rendu/ directory to vogsphere before typing grademe and y in the examshell terminal. </br>
 3 - Read through all of the subjects and examples again before final submission.
 
+# 42 School
+To increase your chance to get into the 42 School, I would recommend the following:
+- Complete enough C Projects
+- Pass an exam
+- Do alot of evals
+- Get alot of Voxtron votes
 
-</br>
+Note: Nothing is guaranteed though as the 42 Piscine Formula isn't public information. 
+
 Enjoy coding and GOOD LUCK in the piscine.
