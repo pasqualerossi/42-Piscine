@@ -76,6 +76,32 @@ A checklist you can use before you submit your C Projects.
 - Make sure only the .c files are in there and not any a.out or other files are there. 
 - Git clone your repo before clicking on 'set project as finished' to check that everything is there. 
 
+# Submit a C Project
+Quickest way to submit a C project.
+
+1 - Head to the intra C project page (link to the intra - intra.42.fr) </br>
+2 - Copy the link of that C project git repo in the intra C project page. </br>
+3 - With that link, head over to iTerm and cd into desktop. </br>
+4 - Once you have cd into desktop, type in the following - git clone <paste url link from intra here> (space) type in Project name here. </br>
+5 - Hit enter and the repo from the intra will popup on your desktop. </br>
+6 - Copy the projects from your other C folder that you are submitting into this folder that you git cloned from the intra. </br>
+7 - Once you have copied the .c files over to this git cloned folder, do the following:
+
+Type in shell, the following commands in order to submit your C Project:
+- git status
+- git add * (* - the star adds all of your .c files all together instead of .c files in one at a time).
+- git status (shows all of your .c files have been added - make sure only .c shows up and remove the files other files like - a.out, etc.).
+- git commit -m "leave a commit message here"
+- git push
+
+You have now pushed your project!
+
+Before you click on 'Set Project as Finished' on the 42 Intra C Project page, make sure to git clone that Intra C Project to make sure all of 
+the folders and .c files are in there. 
+
+If all of the folders and .c files are there, go ahead and click on 'Set Project as Finished', subscribe to 2 evaluations and good luck!
+If you folders and .c files ain't all there, go back to Step 1 and repeat the proccess.  
+
 # 42-Piscine-Exam
 Links to Exam Questions and Solutions
 
