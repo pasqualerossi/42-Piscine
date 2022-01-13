@@ -123,4 +123,16 @@ To increase your chance to get into the 42 School, I would recommend the followi
 
 Note: Nothing is guaranteed though as the 42 Piscine Formula isn't public information. 
 
+# Essential Items List
+Items that you should bring with you on Campus just about everyday.
+
+📱  Phone </br>
+🔌  Phone Charger </br>
+🎧  Headphones </br>
+🖱️  Mouse </br>
+🚰  Water Bottle </br>
+📓  Notebook + Pen </br>
+🥪  Lunch or Credit Card </br>
+😷  Mask
+
 Enjoy coding and GOOD LUCK in the piscine.
