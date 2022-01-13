@@ -88,11 +88,13 @@ Quickest way to submit a C project.
 7 - Once you have copied the .c files over to this git cloned folder, do the following:
 
 Type in shell, the following commands in order to submit your C Project:
-- git status
-- git add * (* - the star adds all of your .c files all together instead of .c files in one at a time).
-- git status (shows all of your .c files have been added - make sure only .c shows up and remove the files other files like - a.out, etc.).
-- git commit -m "leave a commit message here"
-- git push
+
+1 - ```git status``` </br>
+2 - ```git add *``` (* - the star adds all of your .c files all together instead of .c files in one at a time). </br>
+3 - ```git status``` (shows all of your .c files have been added - make sure only .c shows up and remove the files other files like - a.out, etc.). </br>
+4 - ```git commit -m "my commit"``` "leave your commit message here" </br>
+5 - ```git push```
+
 
 You have now pushed your project!
 
