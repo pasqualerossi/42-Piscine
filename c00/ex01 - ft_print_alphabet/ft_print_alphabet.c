@@ -10,6 +10,7 @@ void	ft_print_alphabet(void)
 		write(1, &count, 1);
 		count++;
 	}
+}
 /*
 int	main(void)
 {
