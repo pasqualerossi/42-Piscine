@@ -12,11 +12,17 @@ void	ft_print_numbers(void)
 	}
 }
 /*
+
+//main to run ft_print_reserve_numbers
+//delete this int main before submitting project
+
 int main(void)
 {
 	ft_print_numbers();
 	return (0);
 }
+
+//this is a second and shorter version of ft_print_numbers
 
 void	ft_print_numbers(void)
 {
