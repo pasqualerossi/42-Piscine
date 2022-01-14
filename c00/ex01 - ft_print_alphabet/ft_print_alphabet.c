@@ -12,11 +12,17 @@ void	ft_print_alphabet(void)
 	}
 }
 /*
+
+//main to run ft_print_alphabet
+//delete this int main before submitting project
+
 int	main(void)
 {
 	ft_print_alphabet();
 	return (0);
 }	
+
+//this is a second and shorter version of ft_print_alphabet
 	
 void	ft_print_alphabet()
 {
