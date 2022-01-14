@@ -11,19 +11,12 @@ void	ft_print_alphabet(void)
 		count++;
 	}
 /*
-
-// main to run ft_print_alphabet
-
 int	main(void)
 {
 	ft_print_alphabet();
 	return (0);
 }	
 	
-//second version below
-
-#include <unistd.h>
-
 void	ft_print_alphabet()
 {
 	write(1, "abcdefghijklmnopqrstuvwxyz", 26);
