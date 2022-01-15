@@ -51,18 +51,14 @@ This is for when you are evaluating someone else's C Project or they are evaluat
 - Check their 42Intra for their phone number to contact them.
 - If none of those work, then talk to 42 Bocal (Staff). 
 
-# Schedule Recommendation
+# First Week of the Piscine
 
-Schedule </br>
-</br>
-Week 1 </br>
 Shell00, Shell01, C00. </br>
 
 - Learn the shell projects on Monday and Tuesday. On Wednesday, start on the C projects (C00) as the exam itself is on the C Language.</br>
 - Suggest you work on the 1st Rush (Rush00) to get an idea of what a group coding project is like. 
 
-</br>
-Week 2
+# Week 2 of the Piscine
 
 C00, C01 and C02. </br>
 
@@ -70,18 +66,16 @@ C00, C01 and C02. </br>
 - Focus on the C Projects this weekend rather then the Rush project, if you missed the first Rush (Rush00), then maybe take part in this Rush project (Rush01). </br> 
 - For those that ain't doing the Rush, prepare for exam on weekends and know your mistakes that you made on the previous exams and continue with your C Projects. 
 
-</br>
-Week 3 </br>
+# Week 3 of the Piscine
 
 C02, C03 and C04. </br>
 
 - If you missed the first and second Rush projects (Rush00 & Rush01), then don't really worry about this Rush project (Rush02). </br>
 - This week continue with your C Projects and prepare for the Exam Preparation. Improving your C concepts & coding skills, along with your algorithms.
 
-</br>
-Week 4 </br>
+# Last Week of the Piscine
 
-C04, C05 and C06 (with possibly C07 if you want to)
+C04, C05 and C06 (with possibly C07 if you want to) </br>
 
 - This week continue with your C Projects and suggest that from Wednesday onwards to prepare for your final exam.
 - Continue and push your C Projects on the final weekend of the piscine as Sunday at 5pm, the 42 Intra closes and piscine is over.  
