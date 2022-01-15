@@ -94,14 +94,14 @@ C00, C01 and C02. </br>
 
 - Contine with Projects C00 and C01 this week. </br>
 - Focus on the C Projects this weekend rather then the Rush project, if you missed the first Rush (Rush00), then maybe take part in this Rush project (Rush01). </br> 
-- For those that ain't doing the Rush01 this weekend as you have done Rush 00, continue on with your C Projects and Prepare for the Exam from Thursday. 
+- For those that ain't doing the Rush01 this weekend as you have done Rush 00, continue on with your C Projects and prepare for the Exam from Thursday. 
 
 # Week 3 of the Piscine
 
 C02, C03 and C04. </br>
 
 - If you missed the first and second Rush projects (Rush00 & Rush01), then don't really worry about this last Rush project (Rush02). </br>
-- This week continue with your C Projects and prepare for the Exam from Thursday. Improving your C concepts & coding skills, along with your algorithms.
+- This week continue with your C Projects and prepare for the Exam from Thursday.
 
 # Last Week of the Piscine
 
