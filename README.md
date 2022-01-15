@@ -107,7 +107,7 @@ C02, C03 and C04. </br>
 
 C04, C05 and C06 (with possibly C07 if you want to) </br>
 
-- This week continue with your C Projects and suggest that from Wednesday, practice for your final exam.
+- This week continue with your C Projects and suggest that from Wednesday (not Thursday this week) to practice for the final exam.
 - Continue and push your C Projects on the final weekend of the piscine as Sunday at 5pm, the 42 Intra closes and piscine is over.  
 </br>
 NOTE: Don't stress with the exams, I failed the first 3 exams (Exam 00, Exam 01 and Exam 02) and only passed the last exam (Exam 03). 
