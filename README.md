@@ -1,17 +1,20 @@
 # 42-Adelaide
-I was part of the 1st ever piscine at 42 Adelaide between June - July of 2021. </br>
+I was part of the 1st ever piscine at 42 Adelaide between June - July of 2021 📆 </br>
 
 What the piscine teaches you is the following:
 
 - Vim or Visual Studio Code (depending on which one you use)
-- iTerm/Terminal
-- C Language Programming
+- iTerm
+- C Language Programming 
 - Shell Commands
 - Git
 - GitHub
 - Use an iMac well =)
 - Discord
-and much more. 
+- Nuclino
+- Stack Overflow
+
+and much more...
 
 # Feeling Stuck?
 
