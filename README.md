@@ -13,7 +13,7 @@ What the piscine teaches you is the following:
 - Discord
 and much more. 
 
-# Piscine Tips
+# Feeling Stuck?
 
 **Feel stuck on a question?** </br>
 Do either or all of the following:
@@ -22,16 +22,36 @@ Do either or all of the following:
 - Check the Discord by either typing your problem in the right channel or searching the whole server in the top right corner of the Discord application. 
 - Google Search the specific problem.
 - Check out specific sites like GitHub and Stack Overflow. 
-</br>
 
-Evaluations </br>
+# Evaluations
+
+**Evaluations** </br>
 Recommend you open eval slots as much as you can, that way you get a couple of things out of it.
 
 - You meet them 1 on 1 and get to know them more and their skillset.
 - You get 1 eval point for every eval done.
 - They explain their code to you, which helps you further understand the project. 
 - You have a copy of their repo, which could you figure out their logic.
-</br>
+
+**How To Open Evaluation Slots**
+
+Step 1 - Head to the 42Intra page - intra.42.fr </br>
+Step 2 - On the 42Intra page, click on Managed Slots in the Evaluations section. </br>
+Step 3 - Click and drag open the evaluation slots you are free to evaluation other people's .c projects. </br>
+Step 4 - You would know when you are book for an evaluation as it popus up on the 42Intra Dashboard stating the following: </br>
+You are evaluating someone on C00 (for example) in 30 mins (for example) and when it is less than 15 mins, it will show who exactly you are evaluating. 
+
+**Can't Find The Person?**
+
+This is for when you are evaluating someone else's C Project or they are evaluating you on your C Project.
+
+- Click on their 42 Intra Username to see where they are located on 42 Campus - Available FN2065 (for example). 
+- Find their Discord username and message them. 
+- Check their 42Intra for their phone number to contact them.
+- If none of those work, then talk to 42 Bocal (Staff). 
+
+# Schedule Recommendation
+
 Schedule </br>
 </br>
 Week 1 </br>
@@ -119,7 +139,7 @@ all exam questions and solutions.pdf - available above 🔼
 
 # Before Exams and C Concepts
 
-You should learn the following fundamental C Concepts:
+You should learn the following fundamental C Concepts in the Piscine:
 - Functions 
 - Loops 
 - Conditions 
@@ -134,9 +154,7 @@ The Additional Concepts includes:
 - Headers (C08)
 - Makefile (C09)
 
-# 42-Exam-Info
-
-**Logging Into and Setting Up The Exam**
+# Logging Into The Exam
 
 Step 1 - Login in with username ```exam``` and the password is also ```exam``` at the Login Screen. </br>
 Step 2 - Open the iTerm and type ```examshell```. </br>
@@ -148,13 +166,14 @@ Step 7 - To find rendu and subject.txt, type in the following in another iTerm `
 Step 8 - There you would find both the rendu and subjects folder. </br>
 Step 8 Bonus - Another alternative is to click finder located at your taskbar and then right-click on the applications folder located at the top of the finder application. 
 
-**During The Exam** </br>
+# During The Exam
 
 1 - Don't forget to clean up, comment, remove your testing code execs, and libraries prior to submission. </br>
 2 - Don't forget to push your code regularly in the rendu/ directory to vogsphere before typing grademe and y in the examshell terminal. </br>
 3 - Read through all of the subjects and examples again before final submission.
 
-**Git Push Exam Project** </br>
+# Git Push Exam Project
+
 How to push your C project to be graded, cause the way you push your project for the 42 Intra is different to the way you push your project for the Exam.
 
 Step 1 - In your iterm shell, ```cd``` into the folder - rendu. </br>
