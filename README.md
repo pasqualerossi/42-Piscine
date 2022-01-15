@@ -157,7 +157,17 @@ Step 8 Bonus - Another alternative is to click finder located at your taskbar an
 **Git Push Exam Project** </br>
 How to push your C project to be graded, cause the way you push your project for the 42 Intra is different to the way you push your project for the Exam.
 
-Step 1 - 
+Step 1 - In your iterm shell, ```cd``` into the folder - rendu. </br>
+Step 2 - Now that your in rendu, you should see your .c file in there. </br>
+Step 3 - In your iterm shell, type in ```git add .c file```. </br>
+Step 4 - Then type in ```git status``` to check if your .c file has been added to the git. </br> 
+Step 5 - Then type in ```git commit -m``` "with your message". </br>
+Step 6 - Then type in ```git status``` again to check if your .c file has been commited to the git. </br> 
+Step 7 - Then type in shell ```git push``` to push your .c project, ready for grading. </br> 
+Step 8 - Then click on the examshell and type in ```grademe``` to be graded. </br>
+
+If you passed, congrats! </br> 
+If not, then head back to your .c file and fix what's gone wrong and repeat from Step 1.
 
 # 42 School
 To increase your chance to get into the 42 School, I would recommend the following:
@@ -171,13 +181,13 @@ Note: Nothing is guaranteed though as the 42 Entrance to the school information 
 # Essential Items List
 Items that you should bring with you on Campus just about everyday.
 
-📱  Phone </br>
-🔌  Phone Charger </br>
-🎧  Headphones </br>
-🖱️  Mouse </br>
-🚰  Water Bottle </br>
-📓  Notebook + Pen </br>
-🥪  Lunch or Credit Card </br>
-😷  Mask
+📱        Your Phone </br>
+🔌  A Phone Charger </br>
+🎧  Your Headphones </br>
+🖱️   Your Mouse </br>
+🚰  A Water Bottle </br>
+📓  A Notebook + Pen </br>
+🥪  Your Lunch or Credit Card </br>
+😷  A Mask
 
 Enjoy coding and GOOD LUCK in the piscine.
