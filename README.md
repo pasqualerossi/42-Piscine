@@ -15,12 +15,13 @@ and much more.
 
 # Piscine Tips
 
-Feel stuck on a question?
+**Feel stuck on a question?** </br>
 Do either or all of the following:
 
 - Ask anyone and everyone and show them what's happening.
 - Check the Discord by either typing your problem in the right channel or searching the whole server in the top right corner of the Discord application. 
 - Google Search the specific problem.
+- Check out specific sites like GitHub and Stack Overflow. 
 </br>
 
 Evaluations </br>
@@ -31,16 +32,16 @@ Recommend you open eval slots as much as you can, that way you get a couple of t
 - They explain their code to you, which helps you further understand the project. 
 - You have a copy of their repo, which could you figure out their logic.
 </br>
-Schedule
+Schedule </br>
 </br>
-Week 1:</br>
+Week 1 </br>
 Shell00, Shell01, C00. </br>
 
 - Learn the shell projects on Monday and Tuesday. On Wednesday, start on the C projects (C00) as the exam itself is on the C Language.</br>
 - Suggest you work on the 1st Rush (Rush00) to get an idea of what a group coding project is like. 
 
 </br>
-Week 2:
+Week 2
 
 C00, C01 and C02. </br>
 
@@ -49,7 +50,7 @@ C00, C01 and C02. </br>
 - For those that ain't doing the Rush, prepare for exam on weekends and know your mistakes that you made on the previous exams and continue with your C Projects. 
 
 </br>
-Week 3: 
+Week 3 </br>
 
 C02, C03 and C04. </br>
 
@@ -57,7 +58,7 @@ C02, C03 and C04. </br>
 - This week continue with your C Projects and prepare for the Exam Preparation. Improving your C concepts & coding skills, along with your algorithms.
 
 </br>
-Week 4: 
+Week 4 </br>
 
 C04, C05 and C06 (with possibly C07 if you want to)
 
@@ -102,7 +103,11 @@ Before you click on 'Set Project as Finished' on the 42 Intra C Project page, ma
 the folders and .c files are in there. 
 
 If all of the folders and .c files are there, go ahead and click on 'Set Project as Finished', subscribe to 2 evaluations and good luck!
+
 If you folders and .c files ain't all there, go back to Step 1 and repeat the proccess.  
+
+Another method you can also do is before you even begin to work on your C Project, head over to the intra C Project page your working on and git clone the project
+and work straight from in there instead. 
 
 # 42-Piscine-Exam
 Links to Exam Questions and Solutions
@@ -110,6 +115,7 @@ Links to Exam Questions and Solutions
 http://nigal.freeshell.org/42/exam-solutions/ </br>
 https://github.com/gcamerli/examshell </br>
 https://github.com/barimehdi77/42-piscine-exam
+
 
 # Before Exams and C Concepts
 
@@ -130,17 +136,28 @@ The Additional Concepts includes:
 
 # 42-Exam-Info
 
-Logging Into and Setting up the Exam </br>
+**Logging Into and Setting Up The Exam**
 
-Step 1 - Login with exam / exam at the Login Screen. </br>
-Step 2 - Open a Terminal and type in your username and password after the prompt. </br>
-Step 3 - Type examshell in a terminal to begin.
+Step 1 - Login in with username ```exam``` and the password is also ```exam``` at the Login Screen. </br>
+Step 2 - Open the iTerm and type ```examshell```. </br>
+Step 3 - Then type in your Intra username and password.  </br>
+Step 4 - Type in ```yes``` for fingerprint ID and type in ```y``` to start the exam. </br>
+Step 5 - You should now get your first .c exam question (only_z for example). </br>
+Step 6 - Now you need to find two things before starting the .c exam question (rendu and subject.txt) </br>
+Step 7 - To find rendu and subject.txt, type in the following in another iTerm ```cd```, NOT in your examshell, and that would put you in your users folder. </br>
+Step 8 - There you would find both the rendu and subjects folder. </br>
+Step 8 Bonus - Another alternative is to click finder located at your taskbar and then right-click on the applications folder located at the top of the finder application. 
 
-During the Exam </br>
+**During The Exam** </br>
 
 1 - Don't forget to clean up, comment, remove your testing code execs, and libraries prior to submission. </br>
 2 - Don't forget to push your code regularly in the rendu/ directory to vogsphere before typing grademe and y in the examshell terminal. </br>
 3 - Read through all of the subjects and examples again before final submission.
+
+**Git Push Exam Project** </br>
+How to push your C project to be graded, cause the way you push your project for the 42 Intra is different to the way you push your project for the Exam.
+
+Step 1 - 
 
 # 42 School
 To increase your chance to get into the 42 School, I would recommend the following:
@@ -149,7 +166,7 @@ To increase your chance to get into the 42 School, I would recommend the followi
 - Do alot of evals
 - Get alot of Voxtron votes
 
-Note: Nothing is guaranteed though as the 42 Piscine Formula isn't public information. 
+Note: Nothing is guaranteed though as the 42 Entrance to the school information isn't public. 
 
 # Essential Items List
 Items that you should bring with you on Campus just about everyday.
