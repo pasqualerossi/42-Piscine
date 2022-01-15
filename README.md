@@ -49,7 +49,28 @@ This is for when you are evaluating someone else's C Project or they are evaluat
 - Click on their 42 Intra Username to see where they are located on 42 Campus - Available FN2065 (for example). 
 - Find their Discord username and message them. 
 - Check their 42Intra for their phone number to contact them.
-- If none of those work, then talk to 42 Bocal (Staff). 
+- If none of those work, then talk to 42 Bocal (Staff).
+
+# Shell Commands
+These are the most common Shell commands in iTerm that you would be using for your C Projects.
+
+- ```cd``` - heads back to your user folder
+- ```cd ...``` - goes back one folder
+- ```ls``` - lists the folders and files your in
+- ```ls -l``` - shows the list of the folder and files your in
+- ```ls -la``` - shows the list of the folder and files your in, including your hidden files
+- ```pwd``` - prints the current path to the folder your in
+- ```cat``` - displays what is in a file to the iTerm
+- ```mkdir``` - makes a folder
+- ```rmdir``` - removes a folder
+- ```touch``` - creates a file
+- ```rm``` - removes a file
+- ```rm -f``` - force removes a file, in-case ```rm``` isn't working
+- ```mv``` - it moves a file to another folder and also you can rename a file as well
+- ```vi``` - opens up a vim text editor program
+- ```vim``` - also opens up a vim text editor program
+
+To see what you have previously typed in the iTerm, click on the up key 🔼 on your keyboard ⌨️
 
 # First Week of the Piscine
 
