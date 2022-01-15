@@ -69,6 +69,8 @@ These are the most common Shell commands in iTerm that you would be using for yo
 - ```mv``` - it moves a file to another folder and also you can rename a file as well
 - ```vi``` - opens up a vim text editor program
 - ```vim``` - also opens up a vim text editor program
+- ```gcc``` <.c file> - to compile your .c project
+- ```./a.out``` - to view the output of your .c project
 
 To see what you have previously typed in the iTerm, click on the up key 🔼 on your keyboard ⌨️
 
