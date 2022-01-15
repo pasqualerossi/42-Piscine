@@ -38,12 +38,13 @@ Recommend you open eval slots as much as you can, that way you get a couple of t
 Step 1 - Head to the 42Intra page - intra.42.fr </br>
 Step 2 - On the 42Intra page, click on Managed Slots in the Evaluations section. </br>
 Step 3 - Click and drag open the evaluation slots you are free to evaluation other people's .c projects. </br>
-Step 4 - You would know when you are book for an evaluation as it popus up on the 42Intra Dashboard stating the following: </br>
+Step 4 - You would know when you are book for an evaluation as it popus up on the 42Intra Dashboard states the following: </br>
+
 You are evaluating someone on C00 (for example) in 30 mins (for example) and when it is less than 15 mins, it will show who exactly you are evaluating. 
 
 **Can't Find The Person?**
 
-This is for when you are evaluating someone else's C Project or they are evaluating you on your C Project.
+This is for when you are evaluating someone else's C Project or they are evaluating you on your C Project and you can't seem to find them?
 
 - Click on their 42 Intra Username to see where they are located on 42 Campus - Available FN2065 (for example). 
 - Find their Discord username and message them. 
