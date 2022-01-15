@@ -74,7 +74,8 @@ These are the most common Shell commands in iTerm that you would be using for yo
 - ```gcc``` <.c file> - to compile your .c project
 - ```./a.out``` - to view the output of your .c project
 
-To see what you have previously typed in the iTerm, click on the up key 🔼 on your keyboard ⌨️
+To see what you have previously typed in the iTerm, click on the up key 🔼 on your keyboard ⌨️ or </br>
+you can also type in Shell ```history```.
 
 # First Week of the Piscine
 
