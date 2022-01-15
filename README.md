@@ -67,6 +67,8 @@ These are the most common Shell commands in iTerm that you would be using for yo
 - ```rm``` - removes a file
 - ```rm -f``` - force removes a file, in-case ```rm``` isn't working
 - ```mv``` - it moves a file to another folder and also you can rename a file as well
+- ```man``` - shows the manual
+- ```man man``` - shows the overview of the entire manual
 - ```vi``` - opens up a vim text editor program
 - ```vim``` - also opens up a vim text editor program
 - ```gcc``` <.c file> - to compile your .c project
