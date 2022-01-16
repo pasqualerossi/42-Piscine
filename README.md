@@ -71,14 +71,14 @@ These are the most common Shell commands in iTerm that you would be using for yo
 
 - ```cd``` - heads back to your user folder
 - ```cd ..``` - goes back one folder
-- ```ls``` - lists the folders and files your in
+- ```ls``` - list of folder/files in any directory that you're currently in
 - ```ls -l``` - shows the list of the folder and files your in
 - ```ls -la``` - shows the list of the folder and files your in, including your hidden files
 - ```pwd``` - prints the current path to the folder your in
 - ```cat``` - displays what is in a file to the iTerm
 - ```mkdir``` - makes a folder
 - ```rmdir``` - removes a folder
-- ```touch``` - creates a file
+- ```touch 'file name'``` - creates a file
 - ```rm``` - removes a file
 - ```rm -f``` - force removes a file, in-case ```rm``` isn't working
 - ```mv``` - it moves a file to another folder and also you can rename a file as well
