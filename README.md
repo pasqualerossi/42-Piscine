@@ -209,9 +209,9 @@ Step 8 Bonus - Another alternative is to click finder located at your taskbar an
 
 Also in the iTerm Examshell, you will see the following 3 options:
 
-```grademe``` - Used for the system to grade your C Project in /rendu. </br>
-```status``` - Shows how much time you have left in the exam and if you have failed a question, how long you have to wait to use ```grademe``` again. </br>
-```finish``` - This is used to end your exam session. 
+1. ```grademe``` - Used for the system to grade your C Project in /rendu. </br>
+2. ```status``` - Shows how much time you have left in the exam and if you have failed a question, how long you have to wait to use ```grademe``` again. </br>
+3. ```finish``` - This is used to end your exam session. 
 
 # Git Push Exam Project
 
