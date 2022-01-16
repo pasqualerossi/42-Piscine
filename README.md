@@ -23,8 +23,8 @@ The biggest thing people find annoying using the iMacs on 42 Campus is the mouse
 1 - Click on the Apple symbol 🍎 in the top left of the desktop 🖥️ </br>
 2 - Then click on System Preferences. </br>
 3 - Then click on Mouse 🖱️ </br>
-4 - Change the mouse speed, scroll direction and secondary click (right click). </br>
-5 - Then click on the x ❌ in the top left corner of System Preferences. 
+4 - Change the Tracking Speed, Scroll Direction, Scrolling and Secondary Button. </br>
+5 - Then click on the x ❌ in the top left corner.
 
 # Feeling Stuck?
 
