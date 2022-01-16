@@ -207,6 +207,12 @@ Step 8 Bonus - Another alternative is to click finder located at your taskbar an
 2 - Don't forget to push your code regularly in the rendu/ directory to vogsphere before typing grademe and y in the examshell terminal. </br>
 3 - Read through all of the subjects and examples again before final submission.
 
+Also in the iTerm Examshell, you will see the following 3 options:
+
+```grademe``` - Used for the system to grade your C Project in /rendu. </br>
+```status``` - Used to see how long left you have in the exam and if you have failed a question, how long until you can use ```grademe``` again. </br>
+```finish``` - This is used to end your exam session. 
+
 # Git Push Exam Project
 
 How to push your C project to be graded, cause the way you push your project for the 42 Intra is different to the way you push your project for the Exam.
