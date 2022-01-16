@@ -54,12 +54,14 @@ Step 3 - Click and drag open the evaluation slots you are free to evaluation oth
 Step 4 - You would know when you are book for an evaluation as it popus up on the 42Intra Dashboard states the following: </br>
 
 You are evaluating someone on C00 (for example) in 30 mins (for example) and when it is less than 15 mins, it will show who exactly you are evaluating. 
+</br>
 
 **Can't Find The Person?**
 
 This is for when you are evaluating someone else's C Project or they are evaluating you on your C Project and you can't seem to find them?
 
 - Click on their 42 Intra Username to see where they are located on 42 Campus - Available FN2065 (for example). 
+- Check out the Cluster Maps on the intra, to see where the other student is exactly located on Campus - https://meta.intra.42.fr/clusters 
 - Find their Discord username and message them. 
 - Check their 42Intra for their phone number to contact them.
 - If none of those work, then talk to 42 Bocal (Staff).
