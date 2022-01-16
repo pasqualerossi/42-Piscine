@@ -70,7 +70,7 @@ This is for when you are evaluating someone else's C Project or they are evaluat
 These are the most common Shell commands in iTerm that you would be using for your C Projects.
 
 - ```cd``` - heads back to your user folder
-- ```cd ...``` - goes back one folder
+- ```cd ..``` - goes back one folder
 - ```ls``` - lists the folders and files your in
 - ```ls -l``` - shows the list of the folder and files your in
 - ```ls -la``` - shows the list of the folder and files your in, including your hidden files
