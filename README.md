@@ -16,6 +16,14 @@ What the piscine teaches you is the following:
 
 and much more...
 
+# iMac 
+The biggest thing people find annoying using the iMacs on 42 Campus is the mouse itself, usually it's slow and such, to fix that do this: 
+
+
+1 - Click on the Apple symbol 🍎 in the top left of the desktop 🖥️ </br>
+2 - Then click on System Preferences. </br>
+3 - Then click on Mouse 🖱️
+
 # Feeling Stuck?
 
 **Feel stuck on a question?** </br>
