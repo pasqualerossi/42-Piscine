@@ -91,6 +91,14 @@ To see what you have previously typed in the iTerm, click on the up key 🔼 on 
 or
 you can also type in Shell ```history```.
 
+# Vim Tips
+
+Some things you can do in Vim that makes it easier to use.
+
+- To increase the size of text in Vim, hold ```command``` and ```+```
+- To turn the syntax of the code on, hold ```shift``` and ```:``` and type in ```syntax on``` and press ```return```
+- To have a set of numbers running down the side in Vim, hold  ```shift``` and ```:``` and type in ```set number``` and press ```return```
+
 # First Week of the Piscine
 
 Shell00, Shell01, C00. </br>
