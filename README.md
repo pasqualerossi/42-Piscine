@@ -237,6 +237,22 @@ Step 8 - Then click on the examshell and type in ```grademe``` to be graded. </b
 If you passed, congrats! </br> 
 If not, then head back to your .c file and fix what's gone wrong and repeat from Step 1.
 
+# Best Desktop Setup
+Recommend best setup you should have on your desktop when you are on 42 Campus:
+
+- 1st FireFox Browser Window (42 Intra, Discord & Nuclino Tabs)
+- 2nd Browser Window (To Research The Project & any GitHub Tabs) 
+- 1st iTerm Window (To do your C Project in)
+- 2nd iTerm Window (For Normintette and Compiling the C Project)
+
+Recommend best setup you should have on your desktop when your on 42 Campus for the Exam:
+
+- 1st iTerm Examshell Window
+- 2nd iTerm Window (For Exam C Question)
+- 3rd iTerm Window (For Compiling the C Project)
+- Rendu Folder
+- Subject.txt (The subject text file of the exam C question)
+
 # 42 School
 To increase your chance to get into the 42 School, I would recommend the following:
 - Complete enough C Projects
