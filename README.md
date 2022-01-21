@@ -140,6 +140,14 @@ A checklist you can use before you submit your C Projects.
 - Make sure only the .c files are in there and not any a.out or other files are there. 
 - Git clone your repo before clicking on 'set project as finished' to check that everything is there. 
 
+# To Compile your C Project 
+
+This is how you compile your .c file in both your projects and the exam. You can do this both ways and I suggest that you do. 
+
+```gcc <file name>.c```
+
+```gcc -Wall -Wextra -Werror <filename.c>```
+
 # Submit a C Project
 Quickest way to submit a C project.
 
