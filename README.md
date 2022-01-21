@@ -148,6 +148,18 @@ This is how you compile your .c file in both your projects and the exam. You can
 
 ```gcc -Wall -Wextra -Werror <filename.c>```
 
+To view your output, type the following:
+
+```./a.out```
+
+Once you have compiled your .c file and it returns the excepted output, you are ready for the next part: 
+
+For C Projects
+- Head to Submit a C Project Section Below
+
+For Exam Projects
+- Head to Git Push Exam Project Section Further Below
+
 # Submit a C Project
 Quickest way to submit a C project.
 
