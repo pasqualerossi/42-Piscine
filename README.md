@@ -204,7 +204,7 @@ Step 2 - Open the iTerm and type ```examshell```. </br>
 Step 3 - Then type in your Intra username and password.  </br>
 Step 4 - Type in ```yes``` for fingerprint ID and type in ```y``` to start the exam. </br>
 Step 5 - You should now get your first .c exam question (only_z for example). </br>
-Step 6 - Now you need to find two things before starting the .c exam question (rendu and subject.txt) </br>
+Step 6 - Now you need to find two things before starting the .c exam question (rendu directory and subject.txt) </br>
 Step 7 - To find rendu and subject.txt, type in the following in another iTerm ```cd```, NOT in your examshell, and that would put you in your users folder. </br>
 Step 8 - There you would find both the rendu and subjects folder. </br>
 Step 8 Bonus - Another alternative is to click finder located at your taskbar and then right-click on the applications folder located at the top of the finder application. 
@@ -220,6 +220,19 @@ Also in the iTerm Examshell, you will see the following 3 options:
 1. ```grademe``` - Used for the system to grade your C Project in /rendu. </br>
 2. ```status``` - Shows how much time you have left in the exam and if you have failed a question, how long you have to wait to use ```grademe``` again. </br>
 3. ```finish``` - This is used to end your exam session. 
+
+Make sure that in your /rendu folder, you have this structure:
+
+Below is an example only  </br>
+
+only_z (Folder) in /rendu  </br>
+
+To make a directory type ```mkdir <folder name>``` </br>
+
+Inside that only_z folder, you should have a .c file - only_z.c  </br>
+
+To create a .c file inside a folder, type ```vim <file name> .c```  </br>
+
 
 # Git Push Exam Project
 
