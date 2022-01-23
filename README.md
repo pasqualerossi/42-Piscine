@@ -152,6 +152,10 @@ To view your output, type the following:
 
 ```./a.out```
 
+You can also gcc your file and ./a.out at the same time by writing the following:
+
+```gcc <file name.c> && ./a.out```
+
 Once you have compiled your .c file and it returns the excepted output, you are ready for the next part: 
 
 For C Projects
