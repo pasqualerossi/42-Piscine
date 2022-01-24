@@ -1,3 +1,71 @@
+# C Projects Overview
+
+C00
+
+- [ex00: ft_putchar](/c00/ex00/ft_putchar.c)
+- [ex01: ft_print_alphabet](/c00/ex01/ft_print_alphabet.c)
+- [ex02: ft_print_reverse_alphabet](/c00/ex02/ft_print_reverse_alphabet.c)
+- [ex03: ft_print_numbers](/c00/ex03/ft_print_numbers.c)
+- [ex04: ft_is_negative](/c00/ex04/ft_is_negative.c)
+- [ex05: ft_print_comb](/c00/ex05/ft_print_comb.c)
+
+C01
+
+- [ex00: ft_ft](/c01/ex00/ft_ft.c)
+- [ex01: ft_ultimate_ft](/c01/ex01/ft_ultimate_ft.c)
+- [ex02: ft_swap](/c01/ex02/ft_swap.c)
+- [ex03: ft_div_mod](/c01/ex03/ft_div_mod.c)
+- [ex04: ft_ultimate_div_mod](/c01/ex04/ft_ultimate_div_mod.c)
+- [ex05: ft_putstr](/c01/ex05/ft_putstr.c)
+- [ex06: ft_strlen](/c01/ex06/ft_strlen.c)
+
+C02
+
+- [ex00: ft_strcpy](/c02/ex00/ft_strcpy.c)
+- [ex01: ft_strncpy](/c02/ex01/ft_strncpy.c)
+- [ex02: ft_str_is_alpha](/c02/ex02/ft_str_is_alpha.c)
+- [ex03: ft_str_is_numeric](/c02/ex03/ft_str_is_numeric.c)
+- [ex04: ft_str_is_lowercase](/c02/ex04/ft_str_is_lowercase.c)
+- [ex05: ft_str_is_uppercase](/c02/ex05/ft_str_is_uppercase.c)
+- [ex06: ft_str_is_printable](/c02/ex06/ft_str_is_printable.c)
+- [ex07: ft_strupcase](/c02/ex07/ft_strupcase.c)
+- [ex08: ft_strlowcase](/c02/ex08/ft_strlowcase.c)
+
+C03
+
+- [ex00: ft_strcmp](/c03/ex00/ft_strcmp.c)
+- [ex01: ft_strncmp](/c03/ex01/ft_strncmp.c)
+- [ex02: ft_strcat](/c03/ex02/ft_strcat.c)
+- [ex03: ft_strncat](/c03/ex03/ft_strncat.c)
+
+C04
+
+- [ex00: ft_strlen](/c04/ex00/ft_strlen.c)
+- [ex01: ft_putstr](/c04/ex01/ft_putstr.c)
+- [ex02: ft_putnbr](/c04/ex02/ft_putnbr.c)
+
+C05
+
+- [ex00: ft_iterative_factorial](/c05/ex00/ft_iterative_factorial.c)
+- [ex01: ft_recursive_factorial](/c05/ex01/ft_recursive_factorial.c)
+- [ex02: ft_iterative_power](/c05/ex02/ft_iterative_power.c)
+- [ex03: ft_recursive_power](/c05/ex03/ft_recursive_power.c)
+- [ex04: ft_fibonacci](/c05/ex04/ft_fibonacci.c)
+- [ex05: ft_sqrt](/c05/ex05/ft_sqrt.c)
+
+C06
+
+- [ex00: ft_print_program_name](/c06/ex00/ft_print_program_name.c)
+- [ex01: ft_print_params](/c06/ex01/ft_print_params.c)
+- [ex02: ft_rev_params](/c06/ex02/ft_rev_params.c)
+
+C07
+
+- [ex00: ft_strdup](/c07/ex00/ft_strdup.c)
+- [ex01: ft_range](/c07/ex01/ft_range.c)
+- [ex02: ft_ultimate_range](/c07/ex02/ft_ultimate_range.c)
+- [ex03: ft_strjoin](/c07/ex03/ft_strjoin.c)
+
 # 42-Adelaide
 I was part of the 1st ever piscine at 42 Adelaide between June - July of 2021 📆 </br>
 
