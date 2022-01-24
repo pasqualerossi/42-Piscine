@@ -46,12 +46,12 @@ C04
 
 C05
 
-- [ex00: ft_iterative_factorial](/c05/ex00/ft_iterative_factorial.c)
-- [ex01: ft_recursive_factorial](/c05/ex01/ft_recursive_factorial.c)
-- [ex02: ft_iterative_power](/c05/ex02/ft_iterative_power.c)
-- [ex03: ft_recursive_power](/c05/ex03/ft_recursive_power.c)
-- [ex04: ft_fibonacci](/c05/ex04/ft_fibonacci.c)
-- [ex05: ft_sqrt](/c05/ex05/ft_sqrt.c)
+- [ex00: ft_iterative_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex00%20-%20ft_iterative_factorial/ft_iterative_factorial.c)
+- [ex01: ft_recursive_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex01%20-%20ft_recursive_factorial/ft_recursive_factorial.c)
+- [ex02: ft_iterative_power](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex02%20-%20ft_iterative_power/ft_iterative_power.c)
+- [ex03: ft_recursive_power](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex03%20-%20ft_recursive_power/ft_recursive_power.c)
+- [ex04: ft_fibonacci](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex04%20-%20ft_fibonacci/ft_fibonacci.c)
+- [ex05: ft_sqrt](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex05%20-%20ft_sqrt/ft_sqrt.c)
 
 C06
 
