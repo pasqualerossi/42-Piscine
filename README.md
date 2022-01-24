@@ -55,16 +55,16 @@ C05
 
 C06
 
-- [ex00: ft_print_program_name](/c06/ex00/ft_print_program_name.c)
-- [ex01: ft_print_params](/c06/ex01/ft_print_params.c)
-- [ex02: ft_rev_params](/c06/ex02/ft_rev_params.c)
+- [ex00: ft_print_program_name](https://github.com/pasqualerossi/42-Piscine/blob/main/c06/ex00%20-%20ft_print_program_name/ft_print_program_name.c)
+- [ex01: ft_print_params](https://github.com/pasqualerossi/42-Piscine/blob/main/c06/ex01%20-%20ft_print_params/ft_print_params.c)
+- [ex02: ft_rev_params](https://github.com/pasqualerossi/42-Piscine/blob/main/c06/ex02%20-%20ft_rev_params/ft_rev_params.c)
 
 C07
 
-- [ex00: ft_strdup](/c07/ex00/ft_strdup.c)
-- [ex01: ft_range](/c07/ex01/ft_range.c)
-- [ex02: ft_ultimate_range](/c07/ex02/ft_ultimate_range.c)
-- [ex03: ft_strjoin](/c07/ex03/ft_strjoin.c)
+- [ex00: ft_strdup](https://github.com/pasqualerossi/42-Piscine/blob/main/c07/ex00%20-%20ft_strdup/ft_strdup.c)
+- [ex01: ft_range](https://github.com/pasqualerossi/42-Piscine/blob/main/c07/ex01%20-%20ft_range/ft_range.c)
+- [ex02: ft_ultimate_range](https://github.com/pasqualerossi/42-Piscine/blob/main/c07/ex02%20-%20ft_ultimate_range/ft_ultimate_range.c)
+- [ex03: ft_strjoin](https://github.com/pasqualerossi/42-Piscine/blob/main/c07/ex03%20-%20ft_strjoin/ft_strjoin.c)
 
 # 42-Adelaide
 I was part of the 1st ever piscine at 42 Adelaide between June - July of 2021 📆 </br>
