@@ -290,7 +290,7 @@ https://github.com/gcamerli/examshell </br>
 https://github.com/barimehdi77/42-piscine-exam </br>
 all exam questions and solutions.pdf - available above 🔼
 
-# Before Exams and C Concepts
+# C Concepts
 
 You should learn the following fundamental C Concepts in the Piscine:
 - Functions 
