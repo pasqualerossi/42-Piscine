@@ -43,6 +43,30 @@ Inside that only_z folder, you should have a .c file - only_z.c  </br>
 
 To create a .c file inside a folder, type ```vim <file name> .c```  </br>
 
+# To Compile your C Project 
+
+This is how you compile your .c file in both your projects and the exam. You can do this both ways and I suggest that you do. 
+
+```gcc <file name>.c```
+
+```gcc -Wall -Wextra -Werror <filename.c>```
+
+To view your output, type the following:
+
+```./a.out```
+
+You can also gcc your file and ./a.out at the same time by writing the following:
+
+```gcc <file name.c> && ./a.out```
+
+Once you have compiled your .c file and it returns the excepted output, you are ready for the next part: 
+
+For C Projects
+- Head to Submit a C Project Section Below
+
+For Exam Projects
+- Head to Git Push Exam Project Section Further Below
+
 # Git Push Exam Project
 
 How to push your C project to be graded, cause the way you push your project for the 42 Intra is different to the way you push your project for the Exam.
