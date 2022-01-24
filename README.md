@@ -3,11 +3,11 @@
 C00
 
 - [ex00: ft_putchar](https://github.com/pasqualerossi/42-Piscine/blob/main/c00/ex00%20-%20ft_putchar/ft_putchar.c)
-- [ex01: ft_print_alphabet](https://github.com/pasqualerossi/42-Piscine/blob/main/c00/ex00%20-%20ft_print_alphabet/ft_print_alphabet.c)
-- [ex02: ft_print_reverse_alphabet](/c00/ex02/ft_print_reverse_alphabet.c)
-- [ex03: ft_print_numbers](/c00/ex03/ft_print_numbers.c)
-- [ex04: ft_is_negative](/c00/ex04/ft_is_negative.c)
-- [ex05: ft_print_comb](/c00/ex05/ft_print_comb.c)
+- [ex01: ft_print_alphabet](https://github.com/pasqualerossi/42-Piscine/blob/main/c00/ex01%20-%20ft_print_alphabet/ft_print_alphabet.c)
+- [ex02: ft_print_reverse_alphabet](https://github.com/pasqualerossi/42-Piscine/blob/main/c00/ex02%20-%20ft_print_reverse_alphabet/ft_print_reverse_alphabet.c)
+- [ex03: ft_print_numbers](https://github.com/pasqualerossi/42-Piscine/blob/main/c00/ex03%20-%20ft_print_numbers/ft_print_numbers.c)
+- [ex04: ft_is_negative](https://github.com/pasqualerossi/42-Piscine/blob/main/c00/ex04%20-%20ft_is_negative/ft_is_negative.c)
+- [ex05: ft_print_comb](https://github.com/pasqualerossi/42-Piscine/blob/main/c00/ex05%20-%20ft_print_comb/ft_print_comb.c)
 
 C01
 
