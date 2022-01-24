@@ -167,6 +167,10 @@ Some things you can do in Vim that makes it easier to use.
 - To turn the syntax of the code on, hold ```shift``` and ```:``` and type in ```syntax on``` and press ```return```
 - To have a set of numbers running down the side in Vim, hold  ```shift``` and ```:``` and type in ```set number``` and press ```return```
 
+You can also access your Vim configuation to have these changes added permanently to your account by doing the following:
+
+```vim ~/.vimrc```
+
 # First Week of the Piscine
 
 Shell00, Shell01, C00. </br>
