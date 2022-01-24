@@ -199,6 +199,7 @@ and work straight from in there instead.
 # 42-Piscine-Exam
 Links to Exam Questions and Solutions
 
+https://github.com/os-moussao/Piscine-Exp-Aug2021/tree/main/42%20EXAMS </br>
 http://nigal.freeshell.org/42/exam-solutions/ </br>
 https://github.com/gcamerli/examshell </br>
 https://github.com/barimehdi77/42-piscine-exam </br>
