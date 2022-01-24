@@ -40,9 +40,9 @@ C03
 
 C04
 
-- [ex00: ft_strlen](/c04/ex00/ft_strlen.c)
-- [ex01: ft_putstr](/c04/ex01/ft_putstr.c)
-- [ex02: ft_putnbr](/c04/ex02/ft_putnbr.c)
+- [ex00: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/c04/ex00%20-%20ft_strlen/ft_strlen.c)
+- [ex01: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/c04/ex01%20-%20ft_putstr/ft_putstr.c)
+- [ex02: ft_putnbr](https://github.com/pasqualerossi/42-Piscine/blob/main/c04/ex02%20-%20ft_putnbr/ft_putnbr.c)
 
 C05
 
