@@ -171,6 +171,19 @@ You can also access your Vim configuation to have these changes added permanentl
 
 ```vim ~/.vimrc```
 
+
+Vim shortcuts that are very handy:
+
+- ```CTRL+HOME```	  - send you at the beginning of the file
+- ```CTRL+END```	 - send you at the end of the file
+- ```YY```			   - copy
+- ```PP```		   - paste
+- ```DD```			   - delete row
+- ```w```			     - save file
+- ```q```			     - quit file
+- ```:wq```			   - save and quit
+- ```:q!```			   - quit without change
+
 # First Week of the Piscine
 
 Shell00, Shell01, C00. </br>
