@@ -33,10 +33,10 @@ C02
 
 C03
 
-- [ex00: ft_strcmp](/c03/ex00/ft_strcmp.c)
-- [ex01: ft_strncmp](/c03/ex01/ft_strncmp.c)
-- [ex02: ft_strcat](/c03/ex02/ft_strcat.c)
-- [ex03: ft_strncat](/c03/ex03/ft_strncat.c)
+- [ex00: ft_strcmp](https://github.com/pasqualerossi/42-Piscine/blob/main/c03/ex00%20-%20ft_strcmp/ft_strcmp.c)
+- [ex01: ft_strncmp](https://github.com/pasqualerossi/42-Piscine/blob/main/c03/ex01%20-%20ft_strncmp/ft_strncmp.c)
+- [ex02: ft_strcat](https://github.com/pasqualerossi/42-Piscine/blob/main/c03/ex02%20-%20ft_strcat/ft_strcat.c)
+- [ex03: ft_strncat](https://github.com/pasqualerossi/42-Piscine/blob/main/c03/ex03%20-%20ft_strncat/ft_strncat.c)
 
 C04
 
