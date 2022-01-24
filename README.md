@@ -2,7 +2,7 @@
 
 C00
 
-- [ex00 - ft_putchar](/c00/ex00/ft_putchar.c)
+- [ex00 - ft_putchar.c](/c00/ex00/ft_putchar.c) c00/ex00 - ft_putchar/ft_putchar.c
 - [ex01: ft_print_alphabet](/c00/ex01/ft_print_alphabet.c)
 - [ex02: ft_print_reverse_alphabet](/c00/ex02/ft_print_reverse_alphabet.c)
 - [ex03: ft_print_numbers](/c00/ex03/ft_print_numbers.c)
