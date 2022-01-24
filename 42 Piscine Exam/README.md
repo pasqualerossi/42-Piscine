@@ -61,11 +61,7 @@ You can also gcc your file and ./a.out at the same time by writing the following
 
 Once you have compiled your .c file and it returns the excepted output, you are ready for the next part: 
 
-For C Projects
-- Head to Submit a C Project Section Below
-
-For Exam Projects
-- Head to Git Push Exam Project Section Further Below
+- Head to Git Push Exam Project Section Below ⬇️
 
 # Git Push Exam Project
 
