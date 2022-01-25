@@ -22,14 +22,14 @@ C01
 C02
 
 - [ex00: ft_strcpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex00%20-%20ft_strcpy/ft_strcpy.c)
-- [ex01: ft_strncpy](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex01%20-%20ft_strncpy/ft_strncpy.c)
-- [ex02: ft_str_is_alpha](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex02%20-%20ft_str_is_alpha/ft_str_is_alpha.c)
-- [ex03: ft_str_is_numeric](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex03%20-%20ft_str_is_numeric/ft_str_is_numeric.c)
-- [ex04: ft_str_is_lowercase](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex04%20-%20ft_str_is_lowercase/ft_str_is_lowercase.c)
-- [ex05: ft_str_is_uppercase](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex05%20-%20ft_str_is_uppercase/ft_str_is_uppercase.c)
-- [ex06: ft_str_is_printable](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex06%20-%20ft_str_is_printable/ft_str_is_printable.c)
-- [ex07: ft_strupcase](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex07%20-%20ft_strupcase/ft_strupcase.c)
-- [ex08: ft_strlowcase](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex08%20-%20ft_strlowcase/ft_strlowcase.c)
+- [ex01: ft_strncpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex01%20-%20ft_strncpy/ft_strncpy.c)
+- [ex02: ft_str_is_alpha](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex02%20-%20ft_str_is_alpha/ft_str_is_alpha.c)
+- [ex03: ft_str_is_numeric](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex03%20-%20ft_str_is_numeric/ft_str_is_numeric.c)
+- [ex04: ft_str_is_lowercase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex04%20-%20ft_str_is_lowercase/ft_str_is_lowercase.c)
+- [ex05: ft_str_is_uppercase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex05%20-%20ft_str_is_uppercase/ft_str_is_uppercase.c)
+- [ex06: ft_str_is_printable](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex06%20-%20ft_str_is_printable/ft_str_is_printable.c)
+- [ex07: ft_strupcase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex07%20-%20ft_strupcase/ft_strupcase.c)
+- [ex08: ft_strlowcase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex08%20-%20ft_strlowcase/ft_strlowcase.c)
 
 C03
 
