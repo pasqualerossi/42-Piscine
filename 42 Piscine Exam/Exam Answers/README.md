@@ -2,6 +2,8 @@
 
 Exam Tip:
 
-Get very familiar with the level 0 answers -  in the final exam, I can tell you in my exam we only needed to answer two questions correctly to pass - both of which were from level 0. So aim on passing and study those.
+Get very familiar with the [Level 0](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%200) Answers as the final exam, you really only have to pass a few questions correctly, which in most cases are questions from Level 0. So focus on Level 0 as much as you can. 
 
-I'll probably update these as I get better at coding, so keep an eye on this repo, watch it, star it throughout your Piscine. In your final week: study these answers! They'll help a lot. Keep testing them. And remember: there's no norminette in the final exam!
+Norminette is not in the final exam. 
+
+These folders and files are not completed and will be updated. 
