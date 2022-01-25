@@ -61,7 +61,7 @@ C06
 
 C07
 
-- [ex00: ft_strdup](https://github.com/pasqualerossi/42-Piscine/blob/main/c07/ex00%20-%20ft_strdup/ft_strdup.c)
-- [ex01: ft_range](https://github.com/pasqualerossi/42-Piscine/blob/main/c07/ex01%20-%20ft_range/ft_range.c)
-- [ex02: ft_ultimate_range](https://github.com/pasqualerossi/42-Piscine/blob/main/c07/ex02%20-%20ft_ultimate_range/ft_ultimate_range.c)
-- [ex03: ft_strjoin](https://github.com/pasqualerossi/42-Piscine/blob/main/c07/ex03%20-%20ft_strjoin/ft_strjoin.c)
+- [ex00: ft_strdup](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex00%20-%20ft_strdup/ft_strdup.c)
+- [ex01: ft_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex01%20-%20ft_range/ft_range.c)
+- [ex02: ft_ultimate_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex02%20-%20ft_ultimate_range/ft_ultimate_range.c)
+- [ex03: ft_strjoin](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex03%20-%20ft_strjoin/ft_strjoin.c)
