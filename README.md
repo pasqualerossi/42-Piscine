@@ -33,7 +33,7 @@ C02
 
 C03
 
-- [ex00: ft_strcmp](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03/ex00%20-%20ft_strcmp)
+- [ex00: ft_strcmp](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03/ex00%20-%20ft_strcmp/ft_strcmp.c)
 - [ex01: ft_strncmp](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex01%20-%20ft_strncmp/ft_strncmp.c)
 - [ex02: ft_strcat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex02%20-%20ft_strcat/ft_strcat.c)
 - [ex03: ft_strncat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex03%20-%20ft_strncat/ft_strncat.c)
@@ -46,8 +46,8 @@ C04
 
 C05
 
-- [ex00: ft_iterative_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex00%20-%20ft_iterative_factorial/ft_iterative_factorial.c)
-- [ex01: ft_recursive_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex01%20-%20ft_recursive_factorial/ft_recursive_factorial.c)
+- [ex00: ft_iterative_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex00%20-%20ft_iterative_factorial/ft_iterative_factorial.c)
+- [ex01: ft_recursive_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex01%20-%20ft_recursive_factorial/ft_recursive_factorial.c)
 - [ex02: ft_iterative_power](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex02%20-%20ft_iterative_power/ft_iterative_power.c)
 - [ex03: ft_recursive_power](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex03%20-%20ft_recursive_power/ft_recursive_power.c)
 - [ex04: ft_fibonacci](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex04%20-%20ft_fibonacci/ft_fibonacci.c)
