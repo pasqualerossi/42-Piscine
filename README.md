@@ -48,16 +48,16 @@ C05
 
 - [ex00: ft_iterative_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex00%20-%20ft_iterative_factorial/ft_iterative_factorial.c)
 - [ex01: ft_recursive_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex01%20-%20ft_recursive_factorial/ft_recursive_factorial.c)
-- [ex02: ft_iterative_power](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex02%20-%20ft_iterative_power/ft_iterative_power.c)
-- [ex03: ft_recursive_power](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex03%20-%20ft_recursive_power/ft_recursive_power.c)
-- [ex04: ft_fibonacci](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex04%20-%20ft_fibonacci/ft_fibonacci.c)
-- [ex05: ft_sqrt](https://github.com/pasqualerossi/42-Piscine/blob/main/c05/ex05%20-%20ft_sqrt/ft_sqrt.c)
+- [ex02: ft_iterative_power](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex02%20-%20ft_iterative_power/ft_iterative_power.c)
+- [ex03: ft_recursive_power](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex03%20-%20ft_recursive_power/ft_recursive_power.c)
+- [ex04: ft_fibonacci](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex04%20-%20ft_fibonacci/ft_fibonacci.c)
+- [ex05: ft_sqrt](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex05%20-%20ft_sqrt/ft_sqrt.c)
 
 C06
 
-- [ex00: ft_print_program_name](https://github.com/pasqualerossi/42-Piscine/blob/main/c06/ex00%20-%20ft_print_program_name/ft_print_program_name.c)
-- [ex01: ft_print_params](https://github.com/pasqualerossi/42-Piscine/blob/main/c06/ex01%20-%20ft_print_params/ft_print_params.c)
-- [ex02: ft_rev_params](https://github.com/pasqualerossi/42-Piscine/blob/main/c06/ex02%20-%20ft_rev_params/ft_rev_params.c)
+- [ex00: ft_print_program_name](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex00%20-%20ft_print_program_name/ft_print_program_name.c)
+- [ex01: ft_print_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex01%20-%20ft_print_params/ft_print_params.c)
+- [ex02: ft_rev_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex02%20-%20ft_rev_params/ft_rev_params.c)
 
 C07
 
