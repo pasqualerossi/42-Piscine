@@ -21,7 +21,7 @@ C01
 
 C02
 
-- [ex00: ft_strcpy](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex00%20-%20ft_strcpy/ft_strcpy.c)
+- [ex00: ft_strcpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex00%20-%20ft_strcpy/ft_strcpy.c)
 - [ex01: ft_strncpy](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex01%20-%20ft_strncpy/ft_strncpy.c)
 - [ex02: ft_str_is_alpha](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex02%20-%20ft_str_is_alpha/ft_str_is_alpha.c)
 - [ex03: ft_str_is_numeric](https://github.com/pasqualerossi/42-Piscine/blob/main/c02/ex03%20-%20ft_str_is_numeric/ft_str_is_numeric.c)
