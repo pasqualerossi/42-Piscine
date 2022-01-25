@@ -11,13 +11,13 @@ C00
 
 C01
 
-- [ex00: ft_ft](https://github.com/pasqualerossi/42-Piscine/blob/main/c01/ex00%20-%20ft_ft/ft_ft.c)
-- [ex01: ft_ultimate_ft](https://github.com/pasqualerossi/42-Piscine/blob/main/c01/ex01%20-%20ft_ultimate_ft/ft_ultimate_ft.c)
-- [ex02: ft_swap](https://github.com/pasqualerossi/42-Piscine/blob/main/c01/ex02%20-%20ft_swap/ft_swap.c)
-- [ex03: ft_div_mod](https://github.com/pasqualerossi/42-Piscine/blob/main/c01/ex03%20-%20ft_div_mod/ft_div_mod.c)
-- [ex04: ft_ultimate_div_mod](https://github.com/pasqualerossi/42-Piscine/blob/main/c01/ex04%20-%20ft_ultimate_div_mod/ft_ultimate_div_mod.c)
-- [ex05: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/c01/ex05%20-%20ft_putstr/ft_putstr.c)
-- [ex06: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/c01/ex06%20-%20ft_strlen/ft_strlen.c)
+- [ex00: ft_ft](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex00%20-%20ft_ft/ft_ft.c)
+- [ex01: ft_ultimate_ft](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex01%20-%20ft_ultimate_ft/ft_ultimate_ft.c)
+- [ex02: ft_swap](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex02%20-%20ft_swap/ft_swap.c)
+- [ex03: ft_div_mod](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex03%20-%20ft_div_mod/ft_div_mod.c)
+- [ex04: ft_ultimate_div_mod](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex04%20-%20ft_ultimate_div_mod/ft_ultimate_div_mod.c)
+- [ex05: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex05%20-%20ft_putstr/ft_putstr.c)
+- [ex06: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex06%20-%20ft_strlen/ft_strlen.c)
 
 C02
 
