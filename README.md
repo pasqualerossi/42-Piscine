@@ -65,3 +65,8 @@ C07
 - [ex01: ft_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex01%20-%20ft_range/ft_range.c)
 - [ex02: ft_ultimate_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex02%20-%20ft_ultimate_range/ft_ultimate_range.c)
 - [ex03: ft_strjoin](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex03%20-%20ft_strjoin/ft_strjoin.c)
+
+<br>
+GitHub Information 😆
+
+![68747470733a2f2f692e726564642e69742f3569696e637a62656430797a2e6a7067](https://user-images.githubusercontent.com/58959408/150910233-6b095911-bdc9-47df-88ac-79a3dbfbea5e.jpg)
