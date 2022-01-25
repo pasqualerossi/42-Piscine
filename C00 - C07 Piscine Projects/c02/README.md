@@ -25,4 +25,4 @@ An Introduction to Using Strings and Arrays to Handle Longer Pieces of Data.
 - EX05 - Check a String is Printable
 - EX06 - Get the Length of a String
 - EX07 - Make a String Uppercase
-- EX08 - Sort Integers
+- EX08 - Make a String Lowercase
