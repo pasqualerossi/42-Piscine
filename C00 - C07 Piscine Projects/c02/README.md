@@ -20,9 +20,9 @@ An Introduction to Using Strings and Arrays to Handle Longer Pieces of Data.
 - EX00 - Copy a String
 - EX01 - String Copy With an Unsigned Int
 - EX02 - Conditional Statements using Arrays
-- EX03 - Check a String is Lowercase
-- EX04 - Check a String is Uppercase
-- EX05 - Check a String is Printable
-- EX06 - Get the Length of a String
+- EX03 -
+- EX04 - Check a String is Lowercase
+- EX05 - Check a String is Uppercase
+- EX06 - Check a String is Printable
 - EX07 - Make a String Uppercase
 - EX08 - Make a String Lowercase
