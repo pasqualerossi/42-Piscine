@@ -37,39 +37,39 @@ Strings and Arrays
 ## C03 
 String Manipulation and Concatanation
 
-- [ex00: ft_strcmp](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03/ex00%20-%20ft_strcmp/ft_strcmp.c)
-- [ex01: ft_strncmp](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex01%20-%20ft_strncmp/ft_strncmp.c)
-- [ex02: ft_strcat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex02%20-%20ft_strcat/ft_strcat.c)
-- [ex03: ft_strncat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex03%20-%20ft_strncat/ft_strncat.c)
+- [ex00: ft_strcmp](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03/ex00%20-%20ft_strcmp/ft_strcmp.c) - Compare Two Strings, Returning a Value
+- [ex01: ft_strncmp](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex01%20-%20ft_strncmp/ft_strncmp.c) - Compare Two Strings, Returning a Value, Using Unsigned Ints
+- [ex02: ft_strcat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex02%20-%20ft_strcat/ft_strcat.c) - Concatanate Two Strings
+- [ex03: ft_strncat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex03%20-%20ft_strncat/ft_strncat.c) - Concatanate Two Strings, Using Unsigned Ints
 
 ## C04 
 Analysing String Qualities and Ints
 
-- [ex00: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex00%20-%20ft_strlen/ft_strlen.c)
-- [ex01: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex01%20-%20ft_putstr/ft_putstr.c)
-- [ex02: ft_putnbr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex02%20-%20ft_putnbr/ft_putnbr.c)
+- [ex00: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex00%20-%20ft_strlen/ft_strlen.c) - Get the Length of a String
+- [ex01: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex01%20-%20ft_putstr/ft_putstr.c) - Print a String
+- [ex02: ft_putnbr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex02%20-%20ft_putnbr/ft_putnbr.c) - Print Any Number Within The Max / Min Int
 
 ## C05 
 Mathematical Concepts in C
 
-- [ex00: ft_iterative_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex00%20-%20ft_iterative_factorial/ft_iterative_factorial.c)
-- [ex01: ft_recursive_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex01%20-%20ft_recursive_factorial/ft_recursive_factorial.c)
-- [ex02: ft_iterative_power](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex02%20-%20ft_iterative_power/ft_iterative_power.c)
-- [ex03: ft_recursive_power](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex03%20-%20ft_recursive_power/ft_recursive_power.c)
-- [ex04: ft_fibonacci](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex04%20-%20ft_fibonacci/ft_fibonacci.c)
-- [ex05: ft_sqrt](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex05%20-%20ft_sqrt/ft_sqrt.c)
+- [ex00: ft_iterative_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex00%20-%20ft_iterative_factorial/ft_iterative_factorial.c) - Create a Program that Generates Iterative Factorials
+- [ex01: ft_recursive_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex01%20-%20ft_recursive_factorial/ft_recursive_factorial.c) - Generate Recursive Factorials
+- [ex02: ft_iterative_power](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex02%20-%20ft_iterative_power/ft_iterative_power.c) - Generate Iterative Powers
+- [ex03: ft_recursive_power](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex03%20-%20ft_recursive_power/ft_recursive_power.c) - Generate Recursive Powers
+- [ex04: ft_fibonacci](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex04%20-%20ft_fibonacci/ft_fibonacci.c) - Generate the Fibbonnacci Sequence
+- [ex05: ft_sqrt](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex05%20-%20ft_sqrt/ft_sqrt.c) - Find the Square Root of a Given Number
 
 ## C06 
 Parameters and Program Information
 
-- [ex00: ft_print_program_name](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex00%20-%20ft_print_program_name/ft_print_program_name.c)
-- [ex01: ft_print_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex01%20-%20ft_print_params/ft_print_params.c)
-- [ex02: ft_rev_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex02%20-%20ft_rev_params/ft_rev_params.c)
+- [ex00: ft_print_program_name](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex00%20-%20ft_print_program_name/ft_print_program_name.c) - Print the Name of a Program
+- [ex01: ft_print_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex01%20-%20ft_print_params/ft_print_params.c) - Print Parameters of a Program
+- [ex02: ft_rev_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex02%20-%20ft_rev_params/ft_rev_params.c) - Print Parameters of a Program in Reverse
 
 ## C07 
 Memory Allocation
 
-- [ex00: ft_strdup](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex00%20-%20ft_strdup/ft_strdup.c)
-- [ex01: ft_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex01%20-%20ft_range/ft_range.c)
-- [ex02: ft_ultimate_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex02%20-%20ft_ultimate_range/ft_ultimate_range.c)
-- [ex03: ft_strjoin](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex03%20-%20ft_strjoin/ft_strjoin.c)
+- [ex00: ft_strdup](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex00%20-%20ft_strdup/ft_strdup.c) - Duplicate a String
+- [ex01: ft_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex01%20-%20ft_range/ft_range.c) - Return a Range
+- [ex02: ft_ultimate_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex02%20-%20ft_ultimate_range/ft_ultimate_range.c) - Return the Length of a Range
+- [ex03: ft_strjoin](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex03%20-%20ft_strjoin/ft_strjoin.c) - Join Two Strings Together
