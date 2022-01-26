@@ -15,12 +15,26 @@ int	ft_str_is_numeric(char *str)
 }
 /*
 #include <stdio.h>
-#include <string.h>
 
-int main(void)
+int main()
 {
-	fputs(ft_str_is_numeric("") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_numeric("1211316131618531864987844651") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_numeric("11561616818613168681351681616^") ? "true\n" : "false\n", stdout);
+    int result;
+
+    result = ft_str_is_numeric("asdf");
+    printf("Result: %d\n", result);
+
+    result = ft_str_is_numeric("QWERTY");
+    printf("Result: %d\n", result);
+
+    result = ft_str_is_numeric("341");
+    printf("Result: %d\n", result);
+
+    result = ft_str_is_numeric("000999");
+    printf("Result: %d\n", result);
+
+    result = ft_str_is_numeric("abcd1234");
+    printf("Result: %d\n", result);
+    
+    return 0;
 }
 */
