@@ -27,7 +27,7 @@ Strings and Arrays
 - [ex00: ft_strcpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex00%20-%20ft_strcpy/ft_strcpy.c) - Copy a String
 - [ex01: ft_strncpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex01%20-%20ft_strncpy/ft_strncpy.c) - String Copy With an Unsigned Int
 - [ex02: ft_str_is_alpha](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex02%20-%20ft_str_is_alpha/ft_str_is_alpha.c) - Conditional Statements using Arrays
-- [ex03: ft_str_is_numeric](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex03%20-%20ft_str_is_numeric/ft_str_is_numeric.c) - 
+- [ex03: ft_str_is_numeric](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex03%20-%20ft_str_is_numeric/ft_str_is_numeric.c) - Check a String is Numbers
 - [ex04: ft_str_is_lowercase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex04%20-%20ft_str_is_lowercase/ft_str_is_lowercase.c) - Check a String is Lowercase
 - [ex05: ft_str_is_uppercase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex05%20-%20ft_str_is_uppercase/ft_str_is_uppercase.c) - Check a String is Uppercase
 - [ex06: ft_str_is_printable](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex06%20-%20ft_str_is_printable/ft_str_is_printable.c) - Check a String is Printable
