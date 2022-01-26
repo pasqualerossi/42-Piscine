@@ -14,6 +14,6 @@ This Project Looks into Parameters and Taking Information from Programs.
 - Temporary Variables
 
 ## Projects
-- EX00 - Print the name of a program
-- EX01 - Print parameters of a program
-- EX02 - Print parameters of a program in reverse
+- EX00 - Print the Name of a Program
+- EX01 - Print Parameters of a Program
+- EX02 - Print Parameters of a Program in Reverse
