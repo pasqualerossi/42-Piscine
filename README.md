@@ -1,5 +1,3 @@
-# C Projects Overview
-
 ## C00 
 Introduction to C
 
