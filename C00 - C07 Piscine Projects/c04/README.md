@@ -9,13 +9,7 @@ This Continues With Strings by Introducing Maths to Them.
 - Max / Min Int
 - Generating strings
 
-### Advanced Concepts
-- Atoi
-- Base
-
-
 ## Projects
 - EX00 - Get the Length of a String
 - EX01 - Print a String
 - EX02 - Print Any Number Within The Max / Min Int
-- EX03 - Generate Atoi
