@@ -68,8 +68,8 @@ Once you have compiled your .c file and it returns the excepted output, you are 
 How to push your C project to be graded, cause the way you push your project for the 42 Intra is different to the way you push your project for the Exam.
 
 Step 1 - In your iterm shell, ```cd``` into the folder - rendu. </br>
-Step 2 - Now that your in rendu, you should see your .c file in there. </br>
-Step 3 - In your iterm shell, type in ```git add .c file```. </br>
+Step 2 - Now that your in rendu, you should see your C folder in there. </br>
+Step 3 - In your iterm shell, type in ```git add <C folder>```. </br>
 Step 4 - Then type in ```git status``` to check if your .c file has been added to the git. </br> 
 Step 5 - Then type in ```git commit -m``` "with your message". </br>
 Step 6 - Then type in ```git status``` again to check if your .c file has been commited to the git. </br> 
