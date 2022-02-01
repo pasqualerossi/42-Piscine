@@ -7,27 +7,36 @@ void	ft_putchar(char c)
 
 void	ft_putnbr(int nb)
 {
-	unsigned int	i;
-
-	i = 0;
-	if (nb < 0)
+	if(nb == -2147483648)
+	{
+		write(1, "-2147483648", 11);
+		return ;
+	}
+	if(nb < 0)
 	{
 		ft_putchar('-');
-		i = -nb;
+		nb = -nb;
 	}
-	else
+	if(nb > 9)
 	{
-		i = nb;
+		ft_putnbr(nb / 10);
+	ft_putchar(nb % 10 + '0');
 	}
-	if (i > 9)
-	{
-		ft_putnbr(i / 10);
-	}
-	ft_putchar(i % 10 + 48);
 }
 /*
 int main (void)
 {
-	ft_putnbr(4563);
+	printf("This should be 2147483648\n");
+	ft_putnbr(2147483648);
+	printf("\nThis should be -2147483648\n");
+	ft_putnbr(-2147483648);
+	printf("\nThis should be 0");
+	ft_putnbr(0);
+	printf("\nThis should be 1");
+	ft_putnbr(1);
+	printf("\nThis should be 42");
+	ft_putnbr(42);
+	ft_printf("\n");
+	return (0);
 }
 */
