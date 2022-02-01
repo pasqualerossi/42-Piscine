@@ -20,8 +20,13 @@ char	*ft_strcat(char *dest, char *src)
 
 int main()
 {
-	char src[] = "Network";
-	char dest[] = "42 ";
-	printf("%s", ft_strncat(dest, src, 7));
+	char *t;
+
+	char b[20] = "hi there!";
+	char a[20] = "arrhgjfhgfg";
+
+	t = ft_strcat(a, b);
+	printf("%s\n", a);
+	return (0);
 }
 */
