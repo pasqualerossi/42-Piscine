@@ -1,3 +1,14 @@
+## Future Updates
+
+- [ ] Update the int mains to make sure they work.
+- [ ] Update int mains to have the void in them - (void).
+- [ ] Have the excepted output displayed of those int mains.
+- [ ] Explain the code and the formula of what it is doing.
+- [ ] Have a line-by-line explanation of the code.
+- [ ] Further simplify and shrink the code.
+- [ ] Have proper variable names declaration.
+
+
 ## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00)
 Introduction to C
 
