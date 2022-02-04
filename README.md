@@ -1,9 +1,8 @@
 ## Future Updates
 
-- [ ] Update the int mains to make sure they work.
-- [ ] Update int mains to have the void in them - (void).
-- [ ] Have the excepted output displayed of those int mains.
-- [ ] Explain the code and the formula of what it is doing.
+- [ ] Update the int mains to make sure they work and add in void - (void).
+- [ ] Have the excepted output displayed of those programs/functions.
+- [ ] Explain each program/fuction.
 - [ ] Have a line-by-line explanation of the code.
 - [ ] Further simplify and shrink the code.
 - [ ] Have proper variable names declaration.
