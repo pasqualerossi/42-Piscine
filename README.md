@@ -7,6 +7,8 @@
 - [ ] Have a line-by-line explanation of the code.
 - [ ] Further simplify and shrink the code.
 - [ ] Have proper variable names declaration.
+- [ ] Complete the GIT and C Headers Section.
+- [ ] Add in the vimrc commands.
 
 
 ## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00)
