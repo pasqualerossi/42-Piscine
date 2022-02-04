@@ -7,7 +7,7 @@
 - [ ] Have a line-by-line explanation of the code.
 - [ ] Further simplify and shrink the code.
 - [ ] Have proper variable names declaration.
-- [ ] Complete the GIT and C Headers Information sections.
+- [ ] Complete the GIT, C Headers and Exam Information sections.
 - [ ] Add in the vimrc commands.
 
 
