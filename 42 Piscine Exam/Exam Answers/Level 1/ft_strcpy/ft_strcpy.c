@@ -1,13 +1,6 @@
-char	*ft_strcpy(char *dest, char *src)
+char	*ft_strcpy(char *s1, char *s2)
 {
-	int	a;
-
-	a = 0;
-	while (src[a] != '\0')
-	{
-		dest[a] = src[a];
-		a++;
-	}
-	dest[a] = '\0';
-	return (dest);
+	while ((*s1++ = *s2++))
+		;
+	return (s1);
 }
