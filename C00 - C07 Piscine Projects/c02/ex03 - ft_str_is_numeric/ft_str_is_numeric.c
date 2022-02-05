@@ -16,19 +16,11 @@ int	ft_str_is_numeric(char *str)
 /*
 #include <stdio.h>
 
-int main()
+int    main(void)
 {
-    int result;
-    
-    result = ft_str_is_numeric("QWERTY");
-    printf("Result: %d\n", result);
-    
-    result = ft_str_is_numeric("000999");
-    printf("Result: %d\n", result);
-    
-    result = ft_str_is_numeric("abcd1234");
-    printf("Result: %d\n", result);
-    
-    return 0;
+    int is_numeric;
+    char a[] = "abc";
+    is_numeric = ft_str_is_numeric(a);
+    printf("%d\n", is_numeric);
 }
 */
