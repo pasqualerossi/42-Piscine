@@ -12,16 +12,12 @@ char	*ft_strlowcase(char *str)
 	return (str);
 }
 /*
-#include <stdio.h>
+#include<stdio.h>
 
-int main(void)
+int main()
 {
-	char str[] = "MesCouidlls au b0rd de l0$%^";
-
-	printf("%s\n", ft_strlowcase(str));
-	//printf("%s\n", ft_strlowcase("ajsfoiajSHSHFUDFUcjzojdfijsd15568s4df?"));
-	//printf("%s\n", ft_strlowcase("JNDVDHVDUFIVDUFVIODVNXZNVNDB"));
-	//printf("%s\n", ft_strlowcase("5116468615168135132100"));
-	//printf("%s\n", ft_strlowcase("%^*&*()%$#$%^&*(*(&*(&^%*&$^%$%)))"));
+    char a[] = "PASQUALE SAYS HI";
+    printf("%s\n", ft_strlowcase(a));
+    return (0);
 }
 */
