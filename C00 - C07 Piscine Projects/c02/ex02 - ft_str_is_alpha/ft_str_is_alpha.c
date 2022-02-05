@@ -15,6 +15,7 @@ int	ft_str_is_alpha(char *str)
 }
 /*
 #include <stdio.h>
+
 int    main(void)
 {
     int is_alpha;
