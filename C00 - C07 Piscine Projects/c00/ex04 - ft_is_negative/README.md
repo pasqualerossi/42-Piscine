@@ -1,4 +1,6 @@
 #### :hammer: ft_is_negative.c
+
+Print ’N’ or ’P’ - Depending on the Integer’s Sign Entered as a Parameter.
 ```c
 #include <unistd.h>
 
