@@ -23,3 +23,16 @@ These folders and files are not completed and will be updated.
 | **maff_revalpha**   |
 | **only_a**          |
 | **only_z**          |  
+
+![level_1](https://user-images.githubusercontent.com/58959408/152631506-abd11a2e-ddfd-445a-ac41-977dfd3ce38e.png)
+
+| Subject             |
+|---------------------|
+| **first_word**      |
+| **ft_putstr**       |
+| **ft_strcpy**       | 
+| **ft_strlen**       |
+| **ft_swap**         |
+| **repeat_alpha**    |
+| **rev_print**       |
+| **rot_13**          |   
