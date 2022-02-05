@@ -14,15 +14,12 @@ int	ft_str_is_printable(char *str)
 }
 /*
 #include <stdio.h>
-#include <string.h>
 
-int main(void)
+int	main()
 {
-		
-	fputs(ft_str_is_uppercase("") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_uppercase("OISDFUDIUGSDFGJSDJBSDUGJOIASDJSDV") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_uppercase("ASDG1") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_uppercase("aDSGDFGSDFG") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_uppercase("DFHSHFGHDFHTSRHa") ? "true\n" : "false\n", stdout);
+	int isprint;
+	char a[] = "\n";
+	isprint = ft_str_is_printable(a);
+	printf("%d\n", isprint);
 }
 */
