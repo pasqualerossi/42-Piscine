@@ -1,4 +1,4 @@
-## Write
+## Write ✍️
 
 write(1, &c, 1);
 
@@ -18,7 +18,7 @@ The middle part of write is what it will print out.
 
 The third part of write is how many spaces of what your printing will take up. <br>
 
-## Int Main
+## Int Main 💻
 
 int   main(void)
 
