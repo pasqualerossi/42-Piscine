@@ -14,7 +14,7 @@ char	*ft_strcpy(char *dest, char *src)
 /*
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 	char dest[] = "";
 
