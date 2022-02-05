@@ -1,31 +1,17 @@
 #include <unistd.h>
 
-void	ft_putchar(char c)
+int	main(int ac, char *av[])
 {
-	write(1, &c, 1);
-}
-
-
-int		ft_strlen(char *s)
-{
-	int i;
-
-	i = 0;
-	while (s[i])
-		i++;
-	return (i);
-}
-
-
-int		main(int ac, char **av)
-{
-	int len;
+	int	i;
 
 	if (ac == 2)
 	{
-		len = ft_strlen(av[1]);
-		while (len--)
-			write(1, &av[1][len], 1);
+		i = 0;
+		while (av[1][i])
+			i += 1;
+		while (i)
+			write(1, &av[1][--i], 1);
 	}
-	ft_putchar('\n');
+	write(1, "\n", 1);
+	return (0);
 }
