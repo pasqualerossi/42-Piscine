@@ -1,3 +1,9 @@
+# EXAM TIPS
+
+- Get very familiar with the Level 0 and Level 1 Answers. As the final exam, you really only have to pass a few questions correctly, which in most cases are questions from Level 0 and 1.
+- Norminette is not in the final exam. 
+- These folders and files are not completed and will be updated. 
+
 ![level_0](https://user-images.githubusercontent.com/58959408/152631358-4b162b8e-7640-43d0-8041-cc94008c6925.png)
 
 | Subject             |
@@ -49,9 +55,3 @@
 | **swap_bits**      |
 | **union**          |
 | **wdmatch**        |
-
-# EXAM TIPS
-
-- Get very familiar with the Level 0 and Level 1 Answers. As the final exam, you really only have to pass a few questions correctly, which in most cases are questions from Level 0 and 1.
-- Norminette is not in the final exam. 
-- These folders and files are not completed and will be updated. 
