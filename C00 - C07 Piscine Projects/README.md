@@ -29,3 +29,13 @@ We use int main to compile our C projects.
 ### int main(```void```)
 
 We use void because we are not taking any arguments, meaning we are not writing directly in the command line, but rather printing our .c program.
+
+## C Libraries 📚
+
+This Github Repo uses only 3 C System Standard Libraries:
+
+:one: ```#include <unistd.h>``` - for the ```write``` function.  <br>
+
+:two: ```#include <stdio.h>``` - for the ```printf``` function. <br>
+
+:three: ```#include <stdlib.h>``` - for the ```NULL``` function.
