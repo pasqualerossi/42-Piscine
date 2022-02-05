@@ -1,3 +1,5 @@
+# C Information
+
 ## 42 C Projects
 All C projects at 42 require you to have a header on-top of your .c file that looks something like this:
 
