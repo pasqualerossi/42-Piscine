@@ -8,7 +8,7 @@ void	ft_putstr(char *str)
 	write(1, str, len);
 }
 /*
-int main()
+int main(void)
 {
 	ft_putstr("Hey");
 }
