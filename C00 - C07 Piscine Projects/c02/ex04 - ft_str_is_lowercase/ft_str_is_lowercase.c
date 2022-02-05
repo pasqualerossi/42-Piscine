@@ -14,15 +14,12 @@ int	ft_str_is_lowercase(char *str)
 }
 /*
 #include <stdio.h>
-#include <string.h>
 
-int main(void)
+int    main(void)
 {
-		
-	fputs(ft_str_is_lowercase("") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_lowercase("adahsudihassudvbds") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_lowercase("hiufsdhfiuhAjduisfnsdfhhuih") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_lowercase("uasfiusyfhuhsdhZ") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_lowercase("35154464515#34135443464#!$%!^#*&*@&*(&*(@^@&(*#^^(@Q*&^))))") ? "true\n" : "false\n", stdout);
+    int islower;
+    char a[] = "123";
+    islower = ft_str_is_lowercase(a);
+    printf("%d\n", islower);
 }
 */
