@@ -25,7 +25,10 @@
 | **ft_swap**         |
 | **repeat_alpha**    |
 | **rev_print**       |
-| **rot_13**          |   
+| **rot_13**          |
+| **rotone**             | 
+| **search_and_replace** | 
+| **ulstr**              | 
 
 # EXAM TIPS
 
