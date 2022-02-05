@@ -1,4 +1,6 @@
-#### :hammer: ft_print_alphabet.c - Print the Alphabet
+#### :hammer: ft_print_alphabet.c
+
+Print the Alphabet - a to z
 ```c
 
 #include <unistd.h>
