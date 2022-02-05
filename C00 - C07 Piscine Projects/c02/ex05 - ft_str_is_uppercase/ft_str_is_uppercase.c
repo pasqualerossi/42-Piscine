@@ -14,15 +14,12 @@ int	ft_str_is_uppercase(char *str)
 }
 /*
 #include <stdio.h>
-#include <string.h>
 
-int main(void)
+int    main(void)
 {
-		
-	fputs(ft_str_is_uppercase("") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_uppercase("OISDFUDIUGSDFGJSDJBSDUGJOIASDJSDV") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_uppercase("ASDG1") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_uppercase("aDSGDFGSDFG") ? "true\n" : "false\n", stdout);
-	fputs(ft_str_is_uppercase("DFHSHFGHDFHTSRHa") ? "true\n" : "false\n", stdout);
+    int isupper;
+    char a[] = "AAAAAAAAGH";
+    isupper = ft_str_is_uppercase(a);
+    printf("%d\n", isupper);
 }
 */
