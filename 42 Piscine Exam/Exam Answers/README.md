@@ -30,6 +30,26 @@
 | **search_and_replace** | 
 | **ulstr**              | 
 
+![level_2](https://user-images.githubusercontent.com/58959408/152632907-5476ea85-b10c-4376-a507-f6d9edde100b.png)
+
+| Subject            |
+|--------------------|
+| **alpha_mirror**   |
+| **do_op**          |
+| **ft_atoi**        |
+| **ft_strcmp**      |
+| **ft_strdup**      |
+| **ft_strrev**      |
+| **inter**          |
+| **is_power_of_2**  |
+| **last_word**      |
+| **max**            |
+| **print_bits**     |
+| **reverse_bits**   |
+| **swap_bits**      |
+| **union**          |
+| **wdmatch**        |
+
 # EXAM TIPS
 
 - Get very familiar with the Level 0 and Level 1 Answers. As the final exam, you really only have to pass a few questions correctly, which in most cases are questions from Level 0 and 1.
