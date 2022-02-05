@@ -1,4 +1,4 @@
-#### :hammer: ft_putchar.c
+#### :hammer: ft_putchar.c - Print a Character
 ```c
 #include <unistd.h>
 
