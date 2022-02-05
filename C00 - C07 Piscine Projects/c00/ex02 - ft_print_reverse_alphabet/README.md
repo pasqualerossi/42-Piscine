@@ -1,4 +1,6 @@
-#### :hammer: ft_print_reserve_alphabet.c - Print the Alphabet in Reverse
+#### :hammer: ft_print_reserve_alphabet.c 
+
+Print the Alphabet in Reverse - z to a
 ```c
 #include <unistd.h>
 
