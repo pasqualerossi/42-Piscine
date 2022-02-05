@@ -17,7 +17,6 @@ char	*ft_strncpy(char *dest, char *src, unsigned int n)
 }
 /*
 #include <stdio.h>
-#include <string.h>
 
 int main(void)
 {
