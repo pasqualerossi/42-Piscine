@@ -18,5 +18,5 @@ These projects are made to help you familiarise with several core concepts:
 - EX01 - Print the Alphabet
 - EX02 - Print the Alphabet in Reverse
 - EX03 - Print the Numbers 0 to 9
-- EX04 - Print the Numbers 9 to 0 in Reverse
+- EX04 - Print ’N’ or ’P’ Depending on the Integer’s Sign Entered as a Parameter.
 - EX05 - Combine Numbers Into Different Double Combinations
