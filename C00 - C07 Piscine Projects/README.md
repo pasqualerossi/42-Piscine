@@ -17,3 +17,15 @@ The middle part of write is what it will print out.
 ### write(1, &c, ``1``);
 
 The third part of write is how many spaces of what your printing will take up. <br>
+
+## Int Main
+
+int   main(void)
+
+### ``int main``
+
+We use int main to compile our C projects.
+
+### int main(```void```)
+
+We use void because we are not taking any arguments, meaning we are not writing directly in the command line, but rather printing our .c program.
