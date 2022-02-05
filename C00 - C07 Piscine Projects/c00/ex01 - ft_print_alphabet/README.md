@@ -1,6 +1,10 @@
 #### :hammer: ft_print_alphabet.c
 
 Print the Alphabet - a to z
+
+ASCII <br>
+- 97 = 'a' <br>
+- 122 = 'z'
 ```c
 
 #include <unistd.h>
