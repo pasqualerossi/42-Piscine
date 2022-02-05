@@ -25,6 +25,7 @@
 | Subject             |
 |---------------------|
 | **first_word**      |
+| **fizzbuzz**        |
 | **ft_putstr**       |
 | **ft_strcpy**       | 
 | **ft_strlen**       |
