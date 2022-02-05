@@ -15,12 +15,11 @@ int	ft_str_is_alpha(char *str)
 }
 /*
 #include <stdio.h>
-
-int main(void)
+int    main(void)
 {
-	fputs(ft_str_is_alpha("abdjisjfnsdfuishdfjsifas") ? "true" : "false", stdout);
-	fputs(ft_str_is_alpha("abdjisjfnsdfuishd3fjsifas") ? "true" : "false", stdout);
-	fputs(ft_str_is_alpha("abdjisjf``___`]]]]nsdfuishdfjsifas") ? "true" : "false", stdout);
-
+    int is_alpha;
+    char a[] = "jriwoeu3u45";
+    is_alpha = ft_str_is_alpha(a);
+    printf("%d\n", is_alpha);
 }
 */
