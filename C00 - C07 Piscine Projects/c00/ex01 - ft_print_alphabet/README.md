@@ -24,3 +24,5 @@ int	main(void)
 }
 */
 ```
+#### Excepted Output <br>
+abcdefghijklmnopqrstuvwxyz
