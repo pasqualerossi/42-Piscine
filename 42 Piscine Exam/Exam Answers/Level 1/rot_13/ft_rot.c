@@ -1,27 +1,22 @@
 #include <unistd.h>
 
-void	ft_putchar(char c)
-{
-	write(1, &c, 1);
-}
-
-
-int		rot_13(char c)
-{
-	if ((c >= 'A' && c <= 'M') || (c >= 'a' && c <= 'm'))
-		c += 13;
-	else if ((c >= 'N' && c <= 'Z') || (c >= 'n' && c <= 'z'))
-		c -= 13;
-	return (c);
-}
-
-
-
 int	main(int ac, char **av)
 {
-	if (ac == 2)
-		while (*av[1])
-			ft_putchar(rot_13(*av[1]++));
-	ft_putchar('\n');
+	int	i;
+
+	if (ac > 1)
+	{
+		i = 0;
+		while(av[1][i])
+		{
+			if (av[1][i] >= 'a' && av[1][i] <= 'z')
+				av[1][i] = (av[1][i] - 'a' + 13) % 26 + 'a';
+			else if (av[1][i] >= 'A' && av[1][i] <= 'Z')
+					av[1][i] = (av[1][i] - 'A' + 13) % 26 + 'A';
+			write(1, &av[1][i], 1);
+			i++;
+		}
+	}
+	write(1, "\n", 1);
 	return (0);
 }
