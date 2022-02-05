@@ -21,3 +21,5 @@ int main(void)
 }
 */
 ```
+#### Excepted Output <br>
+zyxwvutsrqponmlkjihgfedcba
