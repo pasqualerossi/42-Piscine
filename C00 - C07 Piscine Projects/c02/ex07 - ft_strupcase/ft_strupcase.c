@@ -14,7 +14,7 @@ char	*ft_strupcase(char *str)
 /*
 #include <stdio.h>
 
-int main(void)
+int main()
 {
 	char a[] = "fhjdhfjhfjhfkjdsf";
 	
