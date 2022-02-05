@@ -16,7 +16,7 @@ int	ft_str_is_alpha(char *str)
 /*
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 	fputs(ft_str_is_alpha("abdjisjfnsdfuishdfjsifas") ? "true" : "false", stdout);
 	fputs(ft_str_is_alpha("abdjisjfnsdfuishd3fjsifas") ? "true" : "false", stdout);
