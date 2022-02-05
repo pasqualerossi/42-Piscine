@@ -1,6 +1,10 @@
 #### :hammer: ft_print_numbers.c
 
 Print the Numbers - 0 to 9
+
+ASCII <br>
+- 48 = '0' <br>
+- 57 = '9'
 ```c
 void	ft_print_numbers(void)
 {
