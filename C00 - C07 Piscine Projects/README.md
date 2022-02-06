@@ -21,6 +21,8 @@ This Github Repo uses only 3 C System Standard Libraries:
 
 ## ASCII Table 🔡
 
+When looking for characters and symbols in C, you can use decimals to locate them in your .c program/function.
+
 ![unknown](https://user-images.githubusercontent.com/82299698/152664282-eb24f09b-4061-470b-8269-47b56efc8682.png)
 
 ## Write ✍️
