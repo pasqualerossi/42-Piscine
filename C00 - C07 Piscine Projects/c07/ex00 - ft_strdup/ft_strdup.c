@@ -1,4 +1,6 @@
 #include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
 
 char	*ft_strdup(char *src)
 {
@@ -26,19 +28,13 @@ char	*ft_strdup(char *src)
 	return (dest);
 }
 /*
-#include <string.h>
-#include <stdio.h>
-
 int main(void)
 {
-	char	*str;
-	char	*allocated;
+    char    *str;
+    char    *new_str;
 
-	str = "Hello World with malloc()";
-	printf("original  : base  : $%s$ @ %p\n", str, str);
-	allocated = strdup(str);
-	printf("copied    : alloc : $%s$ @ %p\n", allocated, allocated);
-	allocated = ft_strdup(str);
-	printf("ft_copied : alloc : $%s$ @ %p\n", allocated, allocated);
+    str = "Pasquale Sucks";
+    new_str = ft_strdup(str);
+    printf("%s\n", new_str);
 }
 */
