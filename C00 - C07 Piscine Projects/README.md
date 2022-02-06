@@ -56,3 +56,17 @@ We use int main to compile our C projects.
 ### int main(```void```)
 
 We use void because we are not taking any arguments, meaning we are not writing directly in the command line, but rather printing our .c program.
+
+## GCC 📟
+
+To compile your program/function, be in folder of your program/function and type in the following:
+
+- ```gcc 'filename.c'```
+
+then type the following if its a function (e.g. ft_putchar.c):
+
+- ```./a.out``` 
+
+or type the following if its a program (e.g. int	main(int argc, char **argv)):
+
+- ```./a.out 'str1' 'str2'```
