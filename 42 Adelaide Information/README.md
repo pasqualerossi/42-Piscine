@@ -51,7 +51,7 @@ To increase your chance to get into the 42 School, I would recommend the followi
 - Do alot of evals
 - Get alot of Voxtron votes
 
-Note: Nothing is guaranteed though as the 42 Entrance to the school information isn't public. 
+Note: Nothing is guaranteed though as the 42 Entrance to the school isn't public information.
 
 # Essential Items List
 Items that you should bring with you on Campus just about everyday.
