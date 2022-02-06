@@ -28,5 +28,5 @@ int	main(void)
 }
 */
 ```
-#### Excepted Output <br>
-abcdefghijklmnopqrstuvwxyz
+#### Excepted Output: <br>
+abcdefghijklmnopqrstuvwxyz%
