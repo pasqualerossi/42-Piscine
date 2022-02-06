@@ -59,7 +59,7 @@ We use void because we are not taking any arguments, meaning we are not writing 
 
 ## GCC 📟
 
-To compile your program/function, be in folder of your program/function and type in the following:
+To compile your program/function, be in the folder of your program/function and type in the following:
 
 - ```gcc 'filename.c'```
 
