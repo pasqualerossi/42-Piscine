@@ -1,5 +1,3 @@
-# Evaluations
-
 ## **Evaluations** </br>
 Recommend you open eval slots as much as you can, that way you get a couple of things out of it.
 
