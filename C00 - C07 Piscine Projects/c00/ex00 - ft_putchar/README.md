@@ -1,4 +1,4 @@
-#### :hammer: ft_putchar.c 
+#### :hammer: ft_putchar.c - Explanation 
 
 Print a Character
 ```c
@@ -15,5 +15,5 @@ int main(void)  // starts the main
 } 
 */ // Must add a comment at the end to close it
 ```
-#### Excepted Output <br>
+#### Excepted Output: <br>
 a%
