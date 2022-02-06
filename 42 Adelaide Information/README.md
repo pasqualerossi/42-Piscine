@@ -14,7 +14,7 @@ What the piscine teaches you is the following:
 - Nuclino
 - Stack Overflow
 
-and much more...
+and so many soft skills!
 
 # iMac 
 The biggest thing people find annoying using the iMacs on 42 Campus is the mouse itself, usually it's slow and such, to fix that do this: 
