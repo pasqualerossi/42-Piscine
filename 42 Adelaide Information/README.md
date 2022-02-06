@@ -54,7 +54,7 @@ To increase your chance to get into the 42 School, I would recommend the followi
 Note: Nothing is guaranteed though as the 42 Entrance to the school isn't public information.
 
 # Essential Items List
-Items that you should bring with you on Campus just about everyday.
+Items that you should bring with you on Campus everyday.
 
 📱        Your Phone </br>
 🔌  A Phone Charger </br>
