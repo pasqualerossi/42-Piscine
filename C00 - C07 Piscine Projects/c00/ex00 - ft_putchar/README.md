@@ -1,6 +1,8 @@
 #### :hammer: ft_putchar.c - Explanation 
 
-Print a Character
+Print a Character <br>
+- You are creating a function to write a character when called upon in the main using - ft_putchar(' '); <br>
+  any character in the ' ' will be written when the main runs.
 ```c
 #include <unistd.h> // allows the write funciton from the C library 
 
@@ -15,5 +17,7 @@ int main(void)  // starts the main
 } 
 */ // Must add a comment at the end to close it
 ```
+To test if your main works, remove the comments (``` /*   */ ```) and gcc to compile it.
+
 #### Excepted Output: <br>
 a%
