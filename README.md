@@ -1,13 +1,3 @@
-## About 42 Piscine:
-
-The 42 Piscine is a programming bootcamp, it lasts roughly 
-4 weeks, working around 7 days a week, day and night. (error 404 sleep will never be found)
-The bootcamp covers the basics of programming so there's no need to have any experience at
-all. People will try and will fail, over and over again. This trial-and-error
-process is necessary in order to find solutions to different problems that 
-once thought impossible. People learn in groups with other
-students, without teachers. It can be done, and it really does work!
-
 ## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00)
 Introduction to C
 
