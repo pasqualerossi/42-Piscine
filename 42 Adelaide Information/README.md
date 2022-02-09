@@ -76,6 +76,35 @@ Recommend best setup you should have on your desktop when you are on 42 Campus:
 - 1st iTerm Window (To do your C Project in)
 - 2nd iTerm Window (For Normintette and Compiling the C Project)
 
+# Folder Organisation
+Recommend best setup of folders and files you should have on your desktop to make everything organised and simple. 
+
+Create a folder called `Piscine` on your Desktop
+
+- Inside `Piscine` you create 4 `folders`
+
+:one: A Folder Called `Shell Projects`
+- Shell00
+- Shell01
+
+:two: A Folder Called `C Projects`
+- C00
+  - ex00
+  - ex01
+  - ex02
+- C02
+- C03 etc.
+
+:three: A Folder Called `Rush Projects`
+- Rush00
+- Rush01
+- Rush02
+
+:four: A Folder called `Evaluations`
+- prossiC00 (person's name or intra username along with the project you are evaluating them on).
+- prossiC01
+
+
 # 42 School
 To increase your chance to get into the 42 School, I would recommend the following:
 - Complete enough C Projects
