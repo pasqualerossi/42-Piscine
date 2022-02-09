@@ -8,6 +8,10 @@ process is necessary in order to find solutions to different problems that
 once thought impossible. People learn in groups with other
 students, without teachers. It can be done, and it really does work!
 
+## Piscine | Typical Week Schedule
+
+![piscine_typical_week](https://user-images.githubusercontent.com/58959408/153131729-dacf6705-7f90-4db2-8f35-8295fd801fd9.png)
+
 # 42 Piscine Schedule
 
 This is just a recommend schedule for a 42 Pisciner to follow, you are free to follow any schedule that suits you. 
