@@ -1,3 +1,9 @@
+# Exam Questions
+
+- [Level 0](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%200) - Printing Characters, Short Strings, Parameters and Numbers
+- [Level 1](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%201) - Getting Information from Strings, String Manipulation and Rot
+- [Level 2](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%202) - Bit Reversal, Printing Complex Strings, Mathematical Concepts
+
 # 42-Piscine-Exam
 Links to Exam Questions and Solutions
 
