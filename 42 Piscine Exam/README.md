@@ -87,3 +87,7 @@ Recommend best setup you should have on your desktop when your on 42 Campus for 
 - 3rd iTerm Window (For Compiling the C Project)
 - Rendu Folder
 - Subject.txt (The subject text file of the exam C question)
+
+Recommend best setup you should have on your desktop when your doing the Exam remotely:
+
+- Coming Soon 🖥️
