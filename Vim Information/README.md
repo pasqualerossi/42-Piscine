@@ -1,14 +1,20 @@
 # Vim Tips
 
-Some things you can do in Vim that makes it easier to use.
+Add the following command to the `.vimrc` file at the root repository (```vim ~/.virmc```) or enter them one by one in Vim command line.
 
-- To increase the size of text in Vim, hold ```command``` and ```+```
-- To turn the syntax of the code on, hold ```shift``` and ```:``` and type in ```syntax on``` and press ```return```
-- To have a set of numbers running down the side in Vim, hold  ```shift``` and ```:``` and type in ```set number``` and press ```return```
+While in Vim, press `ESC`, press `:`, enter the command, hit `Enter`
 
-You can also access your Vim configuation to have these changes added permanently to your account by doing the following:
+- Enable The Mouse Input <br>
+:set mouse=a
 
-```vim ~/.vimrc```
+- Show Line Numbers <br>
+:set number
+
+- Apply Colours Syntax <br>
+:syntax on
+
+- Increase the size of text in Vim <br>
+Hold ```command``` and ```+```
 
 
 Vim shortcuts that are very handy:
