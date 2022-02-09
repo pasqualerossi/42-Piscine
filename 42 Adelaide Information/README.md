@@ -36,7 +36,7 @@ and more below 🔻
 		your classmates, and empirical knowledge, each student learning at their own pace.
 
 	# Teamwork
-		On weekends, a 48h team project called "Rush" is proposed: a 3-member group randomly
+		On weekends, a 48h team project called "Rush" is proposed: a 3-5 member group randomly
 		chosen by the school's system must collaboratively develop a fully running application.
 		The major challenge here is to equalize the different knowledge levels while finding a
 		common work methodology that allows all team members to contribute to the project.
