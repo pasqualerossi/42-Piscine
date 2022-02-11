@@ -57,6 +57,16 @@ We use int main to compile our C projects.
 
 We use void because we are not taking any arguments, meaning we are not writing directly in the command line, but rather printing our .c program.
 
+## Comments 🗒️
+
+In C, you can comment in your code if you want to leave any notes/information in the code. The program/function will skip over your notes and not
+run it when it complies. <br>
+
+To comment your code, you can do either of the following: <br>
+
+`// <your comment>` - double stroke is for commenting single lines <br>
+`/* <your comment> */` is for commenting multiple lines 
+
 ## GCC 📟
 
 To compile your program/function, be in the folder of your program/function and type in the following:
