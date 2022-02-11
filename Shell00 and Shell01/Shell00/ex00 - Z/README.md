@@ -1,1 +1,13 @@
-![Coming-Soon-1024x576-1](https://user-images.githubusercontent.com/58959408/153137085-fcee5484-9728-4204-bcd7-ff198e0bd014.jpg)
+# Shell 00  Exercise 00
+
+- #### Create a file named z that returns Z followed by a newline whenever the cat command is used in it.
+
+---
+
+#### 1) Create a file
+
+    touch z
+
+#### 2) Direct the output of Z characters to file z. The newline will be added by the echo program itself.
+
+    echo Z > z
