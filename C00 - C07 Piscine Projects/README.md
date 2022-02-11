@@ -64,8 +64,8 @@ run it when it complies. <br>
 
 To comment your code, you can do either of the following: <br>
 
-`// <your comment>` - double stroke is for commenting single lines <br>
-`/* <your comment> */` is for commenting multiple lines 
+`// <your comment>` - double stroke (//) is for commenting single lines. <br>
+`/* <your comment> */` - (/* */) is for commenting multiple lines. 
 
 ## GCC 📟
 
