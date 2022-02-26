@@ -45,6 +45,10 @@ The middle part of write is what it will print out.
 
 The third part of write is how many spaces of what your printing will take up. <br>
 
+## C Data Types
+
+<img width="494" alt="image" src="https://user-images.githubusercontent.com/58959408/155830093-237cb2ff-ee08-4657-aa1d-b1136beac2f5.png">
+
 ## Int Main 💻
 
 int   main(void)
