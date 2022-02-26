@@ -20,7 +20,7 @@ Pointers and If Statements
 - [ex06: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex06%20-%20ft_strlen/ft_strlen.c) - Get the Length of a String
 
 ## [C02](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c02) 
-Strings and Arrays
+Introduction To Strings and Arrays
 
 - [ex00: ft_strcpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex00%20-%20ft_strcpy/ft_strcpy.c) - Copy a String
 - [ex01: ft_strncpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex01%20-%20ft_strncpy/ft_strncpy.c) - String Copy With an Unsigned Int
@@ -33,7 +33,7 @@ Strings and Arrays
 - [ex08: ft_strlowcase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex08%20-%20ft_strlowcase/ft_strlowcase.c) - Make a String Lowercase
 
 ## [C03](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03) 
-String Manipulation and Concatanation
+String Functions, Manipulation and Concatanation
 
 - [ex00: ft_strcmp](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03/ex00%20-%20ft_strcmp/ft_strcmp.c) - Compare Two Strings, Returning a Value
 - [ex01: ft_strncmp](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex01%20-%20ft_strncmp/ft_strncmp.c) - Compare Two Strings, Returning a Value, Using Unsigned Ints
@@ -41,7 +41,7 @@ String Manipulation and Concatanation
 - [ex03: ft_strncat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex03%20-%20ft_strncat/ft_strncat.c) - Concatanate Two Strings, Using Unsigned Ints
 
 ## [C04](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c04) 
-Analysing String Qualities and Ints
+Analysing String Qualities and Manipulating Ints
 
 - [ex00: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex00%20-%20ft_strlen/ft_strlen.c) - Get the Length of a String
 - [ex01: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex01%20-%20ft_putstr/ft_putstr.c) - Print a String
@@ -58,7 +58,7 @@ Mathematical Concepts in C
 - [ex05: ft_sqrt](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex05%20-%20ft_sqrt/ft_sqrt.c) - Find the Square Root of a Given Number
 
 ## [C06](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c06) 
-Parameters and Program Information
+Understanding Argc and Argv
 
 - [ex00: ft_print_program_name](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex00%20-%20ft_print_program_name/ft_print_program_name.c) - Print the Name of a Program
 - [ex01: ft_print_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex01%20-%20ft_print_params/ft_print_params.c) - Print Parameters of a Program
