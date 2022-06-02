@@ -2,9 +2,8 @@
 
 int		main(int argc, char *argv[])
 {
-	int	i;
+	int	i = -1;
 
-	i = -1;
 	if (argc > 1)
 	{
 		while (argv[argc - 1][++i])
