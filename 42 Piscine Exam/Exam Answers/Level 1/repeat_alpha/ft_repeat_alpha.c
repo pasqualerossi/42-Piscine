@@ -2,15 +2,13 @@
 
 int	main(int ac, char **av)
 {
-	int	letter;
-	int	repeat;
+	int	letter = 0;
+	int	repeat = 1;
 
 	if (ac == 2)
 	{
-		letter = 0;
 		while (av[1][letter])
 		{
-			repeat = 1;
 			if (av[1][letter] >= 'a' && av[1][letter] <= 'z')
 				repeat += av[1][letter] - 'a';
 			else if (av[1][letter] >= 'A' && av[1][letter] <= 'Z')
