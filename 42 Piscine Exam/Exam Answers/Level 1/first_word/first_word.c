@@ -1,21 +1,22 @@
 #include <unistd.h>
 
-int     main(int ac, char **av)
+int	ft_is_space(int i)
 {
-	int index;
+	if (i == '\t' || i == '\n' || i == '\r' || i == '\v' || i == '\f' || i == ' ')
+		return (1);
+	return (0);
+}
 
-	index = 0;
-	if (ac == 2)
+int	main(int argc, char *argv[])
+{
+	int	i = 0;
+
+	if (argc == 2)
 	{
-		while (av[1][index] == ' ' || av[1][index] == '\t')
-        {
-            index++;
-        }
-		while (av[1][index] != '\0' && av[1][index] != ' ' && av[1][index] != '\t')
-		{
-			write(1, &av[1][index], 1);
-			index++;
-		}
+		while (ft_is_space((argv[1][i])))
+			i += 1;
+		while (!(ft_is_space(argv[1][i])) && argv[1][i])
+			write(1, &argv[1][i++], 1);
 	}
 	write(1, "\n", 1);
 	return (0);
