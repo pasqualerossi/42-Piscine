@@ -1,20 +1,17 @@
 #include <unistd.h>
 
-void ft_putstr(char *str)
+void	ft_putchar(char c)
 {
-    int index;
-
-    index = 0;
-    while(str[index] != '\0')
-    {
-        write(1, &str[index], 1);
-        index++;
-    }
+	write(1, &c, 1);
 }
 
-int main(void)
+void	ft_putstr(char *str)
 {
-    char *test = "test this out";
-    ft_putstr(test);
-    return (0);
+	int i = 0;
+
+	while (*(str + i) != '\0')
+	{
+		ft_putchar(*(str + i));
+		i++;
+	}
 }
