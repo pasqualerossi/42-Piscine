@@ -2,15 +2,13 @@
 
 int		main(int argc, char *argv[])
 {
-	int		i;
-	char	ltr;
+	int	i = 0;
+	char	ltr = argv[1][i];
 
-	i = 0;
 	if (argc == 2)
 	{
 		while (argv[1][i])
 		{
-			ltr = argv[1][i];
 			if (argv[1][i] >= 'A' && argv[1][i] <= 'Y')
 				ltr += 1;
 			if (argv[1][i] >= 'a' && argv[1][i] <= 'y')
