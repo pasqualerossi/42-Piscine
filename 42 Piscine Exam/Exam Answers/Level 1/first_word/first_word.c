@@ -1,23 +1,26 @@
 #include <unistd.h>
 
-int	ft_is_space(int i)
+void	ft_putchar(char c)
 {
-	if (i == '\t' || i == '\n' || i == '\r' || i == '\v' || i == '\f' || i == ' ')
-		return (1);
-	return (0);
+	write(1, &c, 1);
 }
 
-int	main(int argc, char *argv[])
+int		main(int ac, char **av)
 {
 	int	i = 0;
 
-	if (argc == 2)
+	if (ac == 2)
 	{
-		while (ft_is_space((argv[1][i])))
-			i += 1;
-		while (!(ft_is_space(argv[1][i])) && argv[1][i])
-			write(1, &argv[1][i++], 1);
+		while (av[1][i] == ' ' || av[1][i] == '\t')
+		{
+			i++;
+		}
+		while (av[1][i] != '\0' && av[1][i] != ' ' && av[1][i] != '\t')
+		{
+			ft_putchar(av[1][i]);
+			i++;
+		}
 	}
-	write(1, "\n", 1);
+	ft_putchar('\n');
 	return (0);
 }
