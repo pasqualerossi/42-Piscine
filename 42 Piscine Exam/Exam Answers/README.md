@@ -76,3 +76,11 @@
 | **rstr_capitalizer**      |
 | **str_capitalizer**          |
 | **tab_mult**        |
+
+![level_4](https://user-images.githubusercontent.com/58959408/172992269-5226bb79-65e7-4405-adcb-431680428b63.png)
+
+Coming Soon
+
+![level_5](https://user-images.githubusercontent.com/58959408/172992299-de37fde4-d419-4095-9eb3-8dc071df6737.png)
+
+Coming Soon
