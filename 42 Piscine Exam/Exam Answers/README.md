@@ -59,4 +59,20 @@
 
 ![level_3](https://user-images.githubusercontent.com/58959408/153134645-ba7d2816-a5c0-4db0-94fa-c79588ea2160.png)
 
-Level 3 Coming Soon
+| Subject            |
+|--------------------|
+| **add_prime_sum**   |
+| **epur_str**          |
+| **expand_str**        |
+| **ft_atoi_base**      |
+| **ft_list_size**      |
+| **ft_range**      |
+| **ft_rrange**          |
+| **hidenp**  |
+| **lcm**      |
+| **paramsum**            |
+| **pgcd**     |
+| **print_hex**   |
+| **rstr_capitalizer**      |
+| **str_capitalizer**          |
+| **tab_mult**        |
