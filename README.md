@@ -31,8 +31,7 @@ C Projects Completed During The 1st Ever Piscine (June - July 2021) at 42 Adelai
 - [ex07: ft_strupcase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex07%20-%20ft_strupcase/ft_strupcase.c) - Make a String Uppercase
 - [ex08: ft_strlowcase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex08%20-%20ft_strlowcase/ft_strlowcase.c) - Make a String Lowercase
 
-## [C03](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03) 
-String Functions, Manipulation and Concatanation
+## [C03](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03) - String Functions, Manipulation and Concatanation
 
 - [ex00: ft_strcmp](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03/ex00%20-%20ft_strcmp/ft_strcmp.c) - Compare Two Strings, Returning a Value
 - [ex01: ft_strncmp](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex01%20-%20ft_strncmp/ft_strncmp.c) - Compare Two Strings, Returning a Value, Using Unsigned Ints
