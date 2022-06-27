@@ -1,7 +1,6 @@
 C Projects Completed During The 1st Ever Piscine (June - July 2021) at 42 Adelaide.
 
-## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00)
-Introduction to C
+## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) - Introduction to C
 
 - [ex00: ft_putchar](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c00/ex00%20-%20ft_putchar/ft_putchar.c) - Print a Character
 - [ex01: ft_print_alphabet](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c00/ex01%20-%20ft_print_alphabet/ft_print_alphabet.c) - Print the Alphabet
@@ -10,8 +9,7 @@ Introduction to C
 - [ex04: ft_is_negative](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c00/ex04%20-%20ft_is_negative/ft_is_negative.c) - Print the Numbers 9 to 0 in Reverse
 - [ex05: ft_print_comb](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c00/ex05%20-%20ft_print_comb/ft_print_comb.c) - Combine Numbers into Different Double Combinations
 
-## [C01](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c01) 
-Pointers and If Statements
+## [C01](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c01) - Pointers and If Statements
 
 - [ex00: ft_ft](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex00%20-%20ft_ft/ft_ft.c) - Make a Pointer to 42
 - [ex01: ft_ultimate_ft](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex01%20-%20ft_ultimate_ft/ft_ultimate_ft.c) - Make a Pointer to a Pointer to a...to 42
@@ -21,8 +19,7 @@ Pointers and If Statements
 - [ex05: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex05%20-%20ft_putstr/ft_putstr.c) - Write a String
 - [ex06: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex06%20-%20ft_strlen/ft_strlen.c) - Get the Length of a String
 
-## [C02](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c02) 
-Introduction To Strings and Arrays
+## [C02](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c02) - Introduction To Strings and Arrays
 
 - [ex00: ft_strcpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex00%20-%20ft_strcpy/ft_strcpy.c) - Copy a String
 - [ex01: ft_strncpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex01%20-%20ft_strncpy/ft_strncpy.c) - String Copy With an Unsigned Int
@@ -42,15 +39,13 @@ String Functions, Manipulation and Concatanation
 - [ex02: ft_strcat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex02%20-%20ft_strcat/ft_strcat.c) - Concatanate Two Strings
 - [ex03: ft_strncat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex03%20-%20ft_strncat/ft_strncat.c) - Concatanate Two Strings, Using Unsigned Ints
 
-## [C04](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c04) 
-Analysing String Qualities and Manipulating Ints
+## [C04](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c04) - Analysing String Qualities and Manipulating Ints
 
 - [ex00: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex00%20-%20ft_strlen/ft_strlen.c) - Get the Length of a String
 - [ex01: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex01%20-%20ft_putstr/ft_putstr.c) - Print a String
 - [ex02: ft_putnbr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex02%20-%20ft_putnbr/ft_putnbr.c) - Print Any Number Within The Max / Min Int
 
-## [C05](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c05) 
-Mathematical Concepts in C
+## [C05](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c05) - Mathematical Concepts in C
 
 - [ex00: ft_iterative_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex00%20-%20ft_iterative_factorial/ft_iterative_factorial.c) - Create a Program that Generates Iterative Factorials
 - [ex01: ft_recursive_factorial](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex01%20-%20ft_recursive_factorial/ft_recursive_factorial.c) - Generate Recursive Factorials
@@ -59,15 +54,13 @@ Mathematical Concepts in C
 - [ex04: ft_fibonacci](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex04%20-%20ft_fibonacci/ft_fibonacci.c) - Generate the Fibbonnacci Sequence
 - [ex05: ft_sqrt](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex05%20-%20ft_sqrt/ft_sqrt.c) - Find the Square Root of a Given Number
 
-## [C06](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c06) 
-Understanding Argc and Argv
+## [C06](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c06) - Understanding Argc and Argv
 
 - [ex00: ft_print_program_name](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex00%20-%20ft_print_program_name/ft_print_program_name.c) - Print the Name of a Program
 - [ex01: ft_print_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex01%20-%20ft_print_params/ft_print_params.c) - Print Parameters of a Program
 - [ex02: ft_rev_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex02%20-%20ft_rev_params/ft_rev_params.c) - Print Parameters of a Program in Reverse
 
-## [C07](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c07) 
-Memory Allocation
+## [C07](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c07) - Memory Allocation
 
 - [ex00: ft_strdup](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex00%20-%20ft_strdup/ft_strdup.c) - Duplicate a String
 - [ex01: ft_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex01%20-%20ft_range/ft_range.c) - Return a Range
