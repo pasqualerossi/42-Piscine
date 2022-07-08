@@ -1,4 +1,10 @@
-C Projects Completed During The 1st Ever Piscine (June - July 2021) at 42 Adelaide.
+<div align="center">
+
+# 42 C Projects
+
+Completed During The 1st Ever Piscine (June - July 2021) at 42 Adelaide.
+
+</div>
 
 ## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) - Introduction to C
 
@@ -65,3 +71,14 @@ C Projects Completed During The 1st Ever Piscine (June - July 2021) at 42 Adelai
 - [ex01: ft_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex01%20-%20ft_range/ft_range.c) - Return a Range
 - [ex02: ft_ultimate_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex02%20-%20ft_ultimate_range/ft_ultimate_range.c) - Return the Length of a Range
 - [ex03: ft_strjoin](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex03%20-%20ft_strjoin/ft_strjoin.c) - Join Two Strings Together
+
+<div align="center">
+
+# 42 Piscine Exam
+
+</div>
+
+- [Level 0](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%200)
+- [Level 1](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%201)
+- [Level 2](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%202)
+- [Level 3](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%203)
