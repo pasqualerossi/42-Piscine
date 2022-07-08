@@ -82,3 +82,11 @@ Completed During The 1st Ever Piscine (June - July 2021) at 42 Adelaide.
 - [Level 1](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%201)
 - [Level 2](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%202)
 - [Level 3](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%203)
+
+<div align="center">
+
+# 42 Rush Project
+
+</div>
+
+- [Rush 00](https://github.com/pasqualerossi/42-Piscine/tree/main/Rush00%2C%20Rush01%20and%20Rush02/Rush00%20-%20Rectange%20(X%20and%20Y)) -  Rectange (X and Y)
