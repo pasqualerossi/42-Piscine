@@ -4,7 +4,7 @@ Recommend you open eval slots as much as you can, that way you get a couple of t
 - You meet them 1 on 1 and get to know them more and their skillset.
 - You get 1 eval point for every eval done.
 - They explain their code to you, which helps you further understand the project. 
-- You have a copy of their repo, which could you figure out their logic.
+- You have a copy of their repo, which could help you figure out the logic to the code.
 
 ## How To Open Evaluation Slots
 
