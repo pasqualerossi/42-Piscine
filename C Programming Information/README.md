@@ -7,7 +7,7 @@ https://pythontutor.com/c.html#mode=edit
 
 You should learn the following fundamental C Concepts in the Piscine:
 - Functions 
-- Variables (Integars and Characters)
+- Variables
 - Loops 
 - Conditions 
 - Arrays 
@@ -19,7 +19,6 @@ You should learn the following fundamental C Concepts in the Piscine:
 The Additional Concepts includes:
 
 - Libraries
-- Headers
 - Headers (C08)
 - Makefile (C09)
 - Make
