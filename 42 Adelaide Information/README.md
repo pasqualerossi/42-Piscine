@@ -104,14 +104,6 @@ Create a folder called `Piscine` on your Desktop
 - prossiC00 (person's name or intra username along with the project you are evaluating them on).
 - prossiC01
 
-
-# 42 School
-To increase your chance to get into the 42 School, I would recommend the following:
-- Complete enough C Projects
-- Pass an exam
-- Do alot of evals
-- Get alot of Voxtron votes
-
 Note: Nothing is guaranteed though as the 42 Entrance to the school isn't public information.
 
 # Essential Items List
