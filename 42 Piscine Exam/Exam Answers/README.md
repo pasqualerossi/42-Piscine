@@ -1,6 +1,5 @@
 # EXAM TIPS
 
-- Get very familiar with the Level 0 and Level 1 Answers. As the final exam, you really only have to pass a few questions correctly, which in most cases are questions from Level 0 and 1.
 - Norminette is not in the final exam. 
 - These folders and files are not completed and will be updated. 
 
