@@ -1,5 +1,6 @@
 # EXAM
 
+- The exam will start from Level 0 and with each question you answer correctly, the exam will move to the next question. At every exam you will restart at a different question starting from Level 0.  
 - Norminette is not in the final exam. 
 - These folders and files are not completed and will be updated. 
 
