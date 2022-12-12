@@ -1,4 +1,4 @@
-# EXAM TIPS
+# EXAM
 
 - Norminette is not in the final exam. 
 - These folders and files are not completed and will be updated. 
