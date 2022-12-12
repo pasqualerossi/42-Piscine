@@ -24,7 +24,7 @@ only_z	          | ulstr             	|	print_bits	            	| pgcd          
 ---	          |                     	| wdmatch            | tab_mult         
 
 
-# How To Login Into The Exan
+# How To Login Into The Exam
 
     login -> exam
     password -> exam
