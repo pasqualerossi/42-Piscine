@@ -90,3 +90,14 @@ Completed During The 1st Ever Piscine (June - July 2021) at 42 Adelaide.
 </div>
 
 - [Rush 00](https://github.com/pasqualerossi/42-Piscine/tree/main/Rush00%2C%20Rush01%20and%20Rush02/Rush00%20-%20Rectange%20(X%20and%20Y)) -  Rectange (X and Y)
+
+<div align="center">
+
+# Piscine Tips
+
+</div>
+
+- Finish every project you do up to 50% or more of completion, but don't finish up to 100% (Remember: Progress not Perfection!).
+- Check other Github Accounts for Methodology.
+- Utilise External Tools and Resources (Talking To Your Peers, Google, ChatGPT, Stack Overflow, 42 Slack, Your Own 42 Piscine Discord Server and much more).
+- Norminette Consistently.
