@@ -2,7 +2,7 @@
 
 # 42 C Projects
 
-Completed During The 1st Ever Piscine (June - July 2021) at 42 Adelaide.
+Completed During The 1st Ever Piscine at 42 Adelaide (June - July 2021).
 
 </div>
 
