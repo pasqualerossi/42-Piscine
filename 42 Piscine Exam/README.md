@@ -58,3 +58,6 @@ Open new terminal
 3. git push
 
 4. After the git push, type `grademe`
+
+# Exam Practice Tool
+Practice the exam just like you would in the real exam using this tool - https://github.com/JCluzet/42_EXAM
