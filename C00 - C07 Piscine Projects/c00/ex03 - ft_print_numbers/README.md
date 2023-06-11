@@ -6,17 +6,18 @@ ASCII <br>
 - 48 = '0' <br>
 - 57 = '9'
 ```c
-void	ft_print_numbers(void)
+void ft_print_numbers(void)
 {
-	int	count;
+    int count; // Declare a variable 'count' of type int
 
-	count = 48;
-	while (count <= 57)
-	{
-		write(1, &count, 1);
-		count++;
-	}
+    count = 48; // Assign the ASCII value of the character '0' to 'count'
+    while (count <= 57) // Loop while 'count' is within the range of ASCII values for digits '0' to '9'
+    {
+        write(1, &count, 1); // Write the character represented by 'count' to the standard output
+        count++; // Increment 'count' to move to the next digit
+    }
 }
+
 /* //main to run ft_print_reserve_numbers
 int main(void)
 {
