@@ -9,17 +9,18 @@ ASCII <br>
 
 #include <unistd.h>
 
-void	ft_print_alphabet(void)
+void ft_print_alphabet(void)
 {
-	char	count;
+    char count; // Declare a variable 'count' of type char
 
-	count = 97;
-	while (count >= 97 && count <= 122)
-	{
-		write(1, &count, 1);
-		count++;
-	}
+    count = 97; // Assign the ASCII value of lowercase 'a' to 'count'
+    while (count >= 97 && count <= 122) // Loop while 'count' is within the range of lowercase letters 'a' to 'z'
+    {
+        write(1, &count, 1); // Write the character represented by 'count' to the standard output
+        count++; // Increment 'count' to move to the next character in the alphabet
+    }
 }
+
 /* main to run ft_print_alphabet
 int	main(void)
 {
