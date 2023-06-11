@@ -2,33 +2,34 @@
 
 Combine Numbers Into Different Double Combinations
 ```c
-void	ft_print_comb(void)
+void ft_print_comb(void)
 {
-	int	    a;
-	int	    b;
-	int	    c;
+    int a; // Declare a variable 'a' of type int
+    int b; // Declare a variable 'b' of type int
+    int c; // Declare a variable 'c' of type int
 
-	a = '0';
-	while (a <= '7')
-	{
-		      b = a + 1;
-		      while (b <= '8')
-		      {
-			            c = b + 1;
-			            while (c <= '9')
-			            {
-				                  write(1, &a, 1);
-				                  write(1, &b, 1);
-				                  write(1, &c, 1);
-				                  if (a != '7' || b != '8' || c != '9')
-					                  write(1, ", ", 2);
-				                  c++;
-			            }
-			            b++;
-		      }
-		      a++;
-	  } 
+    a = '0'; // Assign the ASCII value of the character '0' to 'a'
+    while (a <= '7') // Loop while 'a' is within the range of ASCII values for digits '0' to '7'
+    {
+        b = a + 1; // Assign the next character value after 'a' to 'b'
+        while (b <= '8') // Loop while 'b' is within the range of ASCII values for digits '1' to '8'
+        {
+            c = b + 1; // Assign the next character value after 'b' to 'c'
+            while (c <= '9') // Loop while 'c' is within the range of ASCII values for digits '2' to '9'
+            {
+                write(1, &a, 1); // Write the character represented by 'a' to the standard output
+                write(1, &b, 1); // Write the character represented by 'b' to the standard output
+                write(1, &c, 1); // Write the character represented by 'c' to the standard output
+                if (a != '7' || b != '8' || c != '9') // If 'a', 'b', and 'c' are not equal to '7', '8', and '9' respectively
+                    write(1, ", ", 2); // Write a comma and a space to the standard output
+                c++; // Increment 'c' to move to the next digit
+            }
+            b++; // Increment 'b' to move to the next digit
+        }
+        a++; // Increment 'a' to move to the next digit
+    }
 }
+
 /* main to run ft_print_comb
 int main(void)
 {
