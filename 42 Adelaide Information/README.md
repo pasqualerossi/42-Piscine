@@ -117,9 +117,3 @@ Items that you should bring with you on Campus everyday.
 📓  A Notebook + Pen </br>
 🥪  Your Lunch or Credit Card </br>
 😷  A Mask
-
-# 42 Adelaide Piscine Students Only
-
-If you need financial assistance throughout the 42 Adelaide Piscine, there is financial support in terms of Centrelink JobSeeker Assistance, unfouratntely Austudy and Youth Allowance will not be available to 42 Adelaide Piscine students as the Piscine is only 28 days and is not accreditied education as of yet. 
-
-To recieve either a full or part exception from the mutual job seeker obligations for the 28 day Piscine, you can ask the 42 Adelaide Staff to send you a form that you can use to submit to Centrelink to recieve the mutual obligations exception during the Piscine. 
