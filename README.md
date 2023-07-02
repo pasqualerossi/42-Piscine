@@ -96,6 +96,7 @@ Completed During The 1st Ever Piscine at 42 Adelaide (June - July 2021).
 # Piscine Tips
 
 </div>
+
 - Check other Github Accounts for their logic.
 - Utilise External Tools and Resources (Talking To Your Peers, Google, ChatGPT, Stack Overflow, 42 Slack, Your Own 42 Piscine Discord Server and much more).
 - Remember To Norminette Consistently.
