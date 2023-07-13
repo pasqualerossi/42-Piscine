@@ -2,8 +2,6 @@
 
 # 42 C Projects
 
-Completed During The 1st Ever Piscine at 42 Adelaide (June - July 2021).
-
 </div>
 
 ## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) - Introduction to C
