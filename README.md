@@ -132,4 +132,4 @@
 
 <br> 
 
-[:arrow_up:](#top) [Back To The Top](#top)
+[:arrow_up:](#top) [Back to top](#top)
