@@ -13,6 +13,7 @@
 - [ex04: ft_is_negative](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c00/ex04%20-%20ft_is_negative/ft_is_negative.c) - Print the Numbers 9 to 0 in Reverse
 - [ex05: ft_print_comb](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c00/ex05%20-%20ft_print_comb/ft_print_comb.c) - Combine Numbers into Different Double Combinations
 
+> [!NOTE]
 > ex00 - ex05 is the mininum needed to pass C00.
 
 <br>
@@ -27,6 +28,7 @@
 - [ex05: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex05%20-%20ft_putstr/ft_putstr.c) - Write a String
 - [ex06: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c01/ex06%20-%20ft_strlen/ft_strlen.c) - Get the Length of a String
 
+> [!NOTE]
 > ex00 - ex06 is the mininum needed to pass C01.
 
 <br>
@@ -43,6 +45,7 @@
 - [ex07: ft_strupcase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex07%20-%20ft_strupcase/ft_strupcase.c) - Make a String Uppercase
 - [ex08: ft_strlowcase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex08%20-%20ft_strlowcase/ft_strlowcase.c) - Make a String Lowercase
 
+> [!NOTE]
 > ex00 - ex08 is the mininum needed to pass C02.
 
 <br>
@@ -54,6 +57,7 @@
 - [ex02: ft_strcat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex02%20-%20ft_strcat/ft_strcat.c) - Concatanate Two Strings
 - [ex03: ft_strncat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex03%20-%20ft_strncat/ft_strncat.c) - Concatanate Two Strings, Using Unsigned Ints
 
+> [!NOTE]
 > ex00 - ex03 is the mininum needed to pass C03.
 
 <br>
@@ -64,6 +68,7 @@
 - [ex01: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex01%20-%20ft_putstr/ft_putstr.c) - Print a String
 - [ex02: ft_putnbr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex02%20-%20ft_putnbr/ft_putnbr.c) - Print Any Number Within The Max / Min Int
 
+> [!NOTE]
 > ex00 - ex02 is the mininum needed to pass C04.
 
 <br>
@@ -77,6 +82,7 @@
 - [ex04: ft_fibonacci](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex04%20-%20ft_fibonacci/ft_fibonacci.c) - Generate the Fibbonnacci Sequence
 - [ex05: ft_sqrt](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c05/ex05%20-%20ft_sqrt/ft_sqrt.c) - Find the Square Root of a Given Number
 
+> [!NOTE]
 > ex00 - ex05 is the mininum needed to pass C05.
 
 <br>
@@ -87,6 +93,7 @@
 - [ex01: ft_print_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex01%20-%20ft_print_params/ft_print_params.c) - Print Parameters of a Program
 - [ex02: ft_rev_params](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c06/ex02%20-%20ft_rev_params/ft_rev_params.c) - Print Parameters of a Program in Reverse
 
+> [!NOTE]
 > ex00 - ex02 is the mininum needed to pass C06.
 
 <br>
@@ -98,6 +105,7 @@
 - [ex02: ft_ultimate_range](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex02%20-%20ft_ultimate_range/ft_ultimate_range.c) - Return the Length of a Range
 - [ex03: ft_strjoin](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c07/ex03%20-%20ft_strjoin/ft_strjoin.c) - Join Two Strings Together
 
+> [!NOTE]
 > ex00 - ex03 is the mininum needed to pass C07.
 
 <div align="center">
