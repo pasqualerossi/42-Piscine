@@ -72,14 +72,11 @@
 
 <div align="center">
 
-# 42 Piscine Exam
+# 42 Piscine Exams
 
 </div>
 
-- [Level 0](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%200)
-- [Level 1](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%201)
-- [Level 2](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%202)
-- [Level 3](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%203)
+- [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
   
 <div align="center">
 
