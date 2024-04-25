@@ -1,3 +1,6 @@
+> [!NOTE]
+> ex00 - ex02 is the mininum needed to pass C06.
+
 # C06
 
 This Project Looks into Parameters and Taking Information from Programs.
