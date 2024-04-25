@@ -71,11 +71,11 @@ Allow photo check
 
 In the  examshell, you have only the following 3 commands:
 
-```status``` - See How Long You Have Left
+1. ```status``` - See How Long You Have Left
 
-```grademe``` - Grade Your Project
+2. ```grademe``` - Grade Your Project
 
-```finish``` - Stop Exam
+3. ```finish``` - Stop Exam
 
 <br>  
 
