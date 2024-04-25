@@ -116,4 +116,3 @@ Items that you should bring with you on Campus everyday.
 🚰  A Water Bottle </br>
 📓  A Notebook + Pen </br>
 🥪  Your Lunch or Credit Card </br>
-😷  A Mask
