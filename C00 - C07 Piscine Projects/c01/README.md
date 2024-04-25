@@ -1,3 +1,6 @@
+> [!NOTE]
+> ex00 - ex06 is the mininum needed to pass C01.
+
 # C01
 
 A Continuation of Concepts Explored in [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c01), with an Introduction to Pointers.
