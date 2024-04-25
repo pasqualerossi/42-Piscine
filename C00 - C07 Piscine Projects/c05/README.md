@@ -1,3 +1,6 @@
+> [!NOTE]
+> ex00 - ex05 is the mininum needed to pass C05.
+
 # C05
 
 This Project uses Mathematics in Relation to Strings.
