@@ -1,3 +1,6 @@
+> [!NOTE]
+> ex00 - ex02 is the mininum needed to pass C04.
+
 # C04
 
 This Continues With Strings by Introducing Maths to Them.
