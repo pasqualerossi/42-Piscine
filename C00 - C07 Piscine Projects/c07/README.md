@@ -1,3 +1,6 @@
+> [!NOTE]
+> ex00 - ex03 is the mininum needed to pass C07.
+
 # C07
 
 This Project Introduces Memory Allocation and String Manipulation.
