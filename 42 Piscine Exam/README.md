@@ -60,6 +60,8 @@ only_z	          | ulstr             	|	print_bits	    | pgcd              | flo
     login -> your 42 intra username (eg. prossi)
     pasword -> your password
 
+<br>
+
 ### Step 4️⃣
 ```
 Allow photo check
