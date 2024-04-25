@@ -1,3 +1,6 @@
+> [!NOTE]
+> ex00 - ex08 is the mininum needed to pass C02.
+
 # C02
 
 An Introduction to Using Strings and Arrays to Handle Longer Pieces of Data.
