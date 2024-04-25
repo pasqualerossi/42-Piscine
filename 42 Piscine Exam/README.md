@@ -1,12 +1,22 @@
-# Exam Details
+> [!NOTE]
+> The exam will start from Level 0 and with each question you answer correctly, the exam will move to the next question.
+>
+> At every exam you will restart at a different question starting from Level 0.
+> 
+> Norminette is not in the exam.
 
-- The exam will start from Level 0 and with each question you answer correctly, the exam will move to the next question. At every exam you will restart at a different question starting from Level 0.
-- Norminette is not in the final exam.
+<br>
 
-# Exam Levels
+<table>
+<tr>
+<th>Piscine Exam</th>
+</tr>
+<tr>
 
-Level 00          | Level 01            | Level 02          | Level 03          | Level 04            | Level 05
-:-----------  	  | :-----------:       | :-----------:     | -----------:      | -----------:        | -----------:
+<td>
+
+| :one: Level 0 | 1️⃣ Level 1 | 2️⃣ Level 2 | 3️⃣ Level 3 | 4️⃣ Level 4 | 5️⃣ Level 5 | 
+|--|--|--|--|--|--|
 aff_a             | first_word          | alpha_mirror      | add_prime_sum     | check_mate          | brackets
 aff_first_param	  | ft_putstr           | do_op	            | epur_str          | fprime              | print_memory
 aff_last_param	  | ft_strcpy           | ft_atoi	      	| expand_str        | ft_itoa             | rpn_calc
@@ -21,43 +31,70 @@ only_z	          | ulstr             	|	print_bits	            	| pgcd          
 ---	          |    fizzbuzz                	| reverse_bits        | print_hex         | brainfuck
 ---	          |                     	| swap_bits      | rstr_capitalizer  | ft_itoa_base
 ---           |                     	| union         | str_capitalizer   | moment
----	          |                     	| wdmatch            | tab_mult         
+---	          |                     	| wdmatch            | tab_mult        
+
+</td>
+</tr> </table>
+
+<br>      
 
 
-# How To Login Into The Exam
+### How To Login Into The Exam
 
+### Step :one: 
+```
     login -> exam
     password -> exam
+```
 
-Type examshell in terminal
+### Step :two:
+
+⌨️ Type ``examshell`` in terminal.
+
+<br>
+
+### Step :three:
 
     login -> your 42 intra username (eg. prossi)
     pasword -> your password
 
+### Step 4️⃣
+```
 Allow photo check
+```
+
+### Step :five:
 
 In the  examshell, you have only the following 3 commands:
 
-- status - check the time and other things
+```status``` - See How Long You Have Left
 
-- grademe - checking pushed exercise (moulinet)
+```grademe``` - Grade Your Project
 
-- finish - closing examshell and finish exam
+```finish``` - Stop Exam
+
+<br>  
+
+### Step :six:
 
 Open new terminal
-
+```
     You can find your exam subject in the directory subject
     Then you can see directory Rendu. It is your repository.
     You must create the directory named by the project, create .c and/or .h and start working.
-    When you are ready go in Rendu and push the directory by doing the following:
+```
 
+### Step 7️⃣
+
+When you are ready to submit, go into /Rendu and push the directory by doing the following:
+```
 1. git add .
-
 2. git commit -m "done"
-
 3. git push
-
 4. After the git push, type `grademe`
+```
 
-# Exam Practice Tool
-Practice the exam just like you would in the real exam using this tool - https://github.com/JCluzet/42_EXAM
+<br>
+
+> [!TIP]
+> Practice the exam just like you would in the real exam using this tool - [Exam Practice Tool](https://github.com/JCluzet/42_EXAM)
