@@ -47,6 +47,8 @@ only_z	          | ulstr             	|	print_bits	    | pgcd              | flo
     password -> exam
 ```
 
+<br>
+
 ### Step :two:
 
 ⌨️ Type ``examshell`` in terminal.
@@ -62,6 +64,8 @@ only_z	          | ulstr             	|	print_bits	    | pgcd              | flo
 ```
 Allow photo check
 ```
+
+<br>
 
 ### Step :five:
 
@@ -83,6 +87,8 @@ Open new terminal
     Then you can see directory Rendu. It is your repository.
     You must create the directory named by the project, create .c and/or .h and start working.
 ```
+
+<br>
 
 ### Step 7️⃣
 
