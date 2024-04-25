@@ -1,3 +1,7 @@
+> [!NOTE]
+> ex00 - ex05 is the mininum needed to pass C00.
+
+
 # C00
 An Introduction into C Programming. 
 
