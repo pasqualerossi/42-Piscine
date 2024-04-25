@@ -1,3 +1,6 @@
+> [!NOTE]
+> ex00 - ex03 is the mininum needed to pass C03.
+
 # C03
 
 This Introduces You to Scanning Strings to Find Values, or to Combine Two Strings (concatanate)
