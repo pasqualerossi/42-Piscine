@@ -1,14 +1,10 @@
-# 42-Adelaide
-I was part of the 1st ever piscine at 42 Adelaide between June - July of 2021 📆 </br>
-
 What the piscine teaches you is the following:
 
 - Vim or Visual Studio Code (depending on which one you use)
 - iTerm
 - GitHub
-- Use an iMac well =)
+- Using an iMac well =)
 - Discord
-- Nuclino
 - Stack Overflow 
 
 and more below 🔻
@@ -47,16 +43,6 @@ and more below 🔻
 		"drowning" amid the massive load of work demanded by the non-stop 28-day program.
 
 and so many soft skills!
-
-# iMac 
-The biggest thing people find annoying using the iMacs on 42 Campus is the mouse itself, usually it's slow and such, to fix that do this: 
-
-
-1 - Click on the Apple symbol 🍎 in the top left of the desktop 🖥️ </br>
-2 - Then click on System Preferences (second one down 🔽) </br>
-3 - Then click on Mouse 🖱️ </br>
-4 - Change the Tracking Speed, Scroll Direction, Scrolling and Secondary Button. </br>
-5 - Then click on the x ❌ in the top left corner.
 
 # Feeling Stuck?
 
@@ -103,8 +89,6 @@ Create a folder called `Piscine` on your Desktop
 :four: A Folder called `Evaluations`
 - prossiC00 (person's name or intra username along with the project you are evaluating them on).
 - prossiC01
-
-Note: Nothing is guaranteed though as the 42 Entrance to the school isn't public information.
 
 # Essential Items List
 Items that you should bring with you on Campus everyday.
