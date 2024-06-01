@@ -20,7 +20,7 @@ You are evaluating someone on C00 (for example) in 30 mins (for example) and whe
 
 This is for when you are evaluating someone else's C Project or they are evaluating you on your C Project and you can't seem to find them?
 
-- Click on their 42 Intra Username to see where they are located on 42 Campus - Available FN2065 (for example). 
+- Click on their 42 Intra Username to see where they are located on 42 Campus.
 - Check out the Cluster Maps on the intra, to see where the other student is exactly located on Campus - https://meta.intra.42.fr/clusters 
 - Find their Discord username and message them. 
 - Check their 42Intra for their phone number to contact them.
