@@ -140,9 +140,7 @@
 > 🗣️ Your Own 42 Piscine Discord Server (or any other communication tools used in the Piscine)
 > 
 > 🧠 Check Other Github Accounts for their logic as well.
-
-
-> [!TIP]
+> 
 > ⌨️ Remember To Norminette Consistently.
 
 <br> 
