@@ -146,5 +146,3 @@
 > ⌨️ Remember To Norminette Consistently.
 
 <br> 
-
-[:arrow_up:](#top) [Back to top](#top)
