@@ -15,7 +15,7 @@
 
 <td>
 
-| :one: Level 0 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 
+| Level 0 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 
 |--|--|--|--|--|--|
 aff_a             | first_word          | alpha_mirror      | add_prime_sum     | check_mate          | brackets
 aff_first_param	  | ft_putstr           | do_op	            | epur_str          | fprime              | print_memory
